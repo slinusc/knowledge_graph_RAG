@@ -1,0 +1,315 @@
+{
+  "id": "proscan",
+  "title": "PROSCAN",
+  "type": "accelerator",
+  "order": 2,
+  "lang": "de",
+  "source": "BeschleunigerWiki",
+  "children": [
+    {
+      "id": "proscan:tab:uebersicht",
+      "title": "Übersicht",
+      "type": "tab",
+      "order": 1,
+      "children": [
+        {
+          "id": "proscan:section:einfuhrung",
+          "title": "EINFÜHRUNG",
+          "type": "section",
+          "order": 1,
+          "children": [
+            {
+              "id": "proscan:category:theorie",
+              "title": "Theorie",
+              "type": "category",
+              "order": 1,
+              "children": [
+                { "id": "proscan:uebersicht:article:einleitung", "title": "Einleitung", "type": "article", "order": 1 },
+                { "id": "proscan:uebersicht:article:beschleunigerphysik", "title": "Beschleunigerphysik", "type": "article", "order": 2 },
+                { "id": "proscan:uebersicht:article:beschleunigersysteme", "title": "Beschleunigersysteme", "type": "article", "order": 3 },
+                { "id": "proscan:uebersicht:article:prozesse", "title": "Prozesse", "type": "article", "order": 4 },
+                { "id": "proscan:uebersicht:article:namensgebung-proscan", "title": "Namensgebung Proscan", "type": "article", "order": 5 },
+                { "id": "proscan:uebersicht:article:erklaervideos", "title": "Erklärvideos", "type": "article", "order": 6 }
+              ]
+            },
+            {
+              "id": "proscan:category:systemkunde",
+              "title": "Systemkunde",
+              "type": "category",
+              "order": 2,
+              "children": [
+                { "id": "proscan:uebersicht:article:gebaeudeleitsystem", "title": "Gebäudeleitsystem", "type": "article", "order": 1 },
+                { "id": "proscan:uebersicht:article:sicherheitssysteme", "title": "Sicherheitssysteme", "type": "article", "order": 2 },
+                { "id": "proscan:uebersicht:article:hf-systeme", "title": "HF Systeme", "type": "article", "order": 3 },
+                { "id": "proscan:uebersicht:article:magnete", "title": "Magnete", "type": "article", "order": 4 },
+                { "id": "proscan:uebersicht:article:diagnostik", "title": "Diagnostik", "type": "article", "order": 5 },
+                { "id": "proscan:uebersicht:article:vakuum", "title": "Vakuum", "type": "article", "order": 6 },
+                { "id": "proscan:uebersicht:article:kontrollsystem", "title": "Kontrollsystem", "type": "article", "order": 7 },
+                { "id": "proscan:uebersicht:article:vertical-deflector-beschreibung", "title": "Vertical Deflector (Beschreibung)", "type": "article", "order": 8 }
+              ]
+            },
+            {
+              "id": "proscan:category:praxis",
+              "title": "Praxis",
+              "type": "category",
+              "order": 3,
+              "children": [
+                { "id": "proscan:uebersicht:article:software-applikationen", "title": "Software / Applikationen", "type": "article", "order": 1 },
+                { "id": "proscan:uebersicht:article:problemerkennung-analyse-behebung", "title": "Problemerkennung, -analyse und Behebung", "type": "article", "order": 2 },
+                { "id": "proscan:uebersicht:article:anfahren-nach-ausfaellen", "title": "Anfahren nach Ausfällen", "type": "article", "order": 3 },
+                { "id": "proscan:uebersicht:article:operator-ausbildung", "title": "Operator Ausbildung", "type": "article", "order": 4 },
+                { "id": "proscan:uebersicht:article:betriebsablaeufe", "title": "Betriebsabläufe", "type": "article", "order": 5 },
+                { "id": "proscan:uebersicht:article:flash-ueberbrueckung", "title": "Flash Überbrückung", "type": "article", "order": 6 },
+                { "id": "proscan:uebersicht:article:notfall-prozedur", "title": "Notfall Prozedur", "type": "article", "order": 7 },
+                { "id": "proscan:uebersicht:article:beschreibung-atm-test", "title": "Beschreibung ATM-Test", "type": "article", "order": 8 },
+                { "id": "proscan:uebersicht:article:tipps-und-tricks", "title": "Tipps und Tricks", "type": "article", "order": 9 }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "proscan:category:wichtige-e-mail-adressen",
+          "title": "Wichtige E-Mail-Adressen",
+          "type": "category",
+          "order": 2,
+          "children": [
+            { "id": "proscan:uebersicht:article:best-effort-email", "title": "Best Effort E-mail", "type": "article", "order": 1 },
+            { "id": "proscan:uebersicht:article:patienten-planung", "title": "Patienten-Planung", "type": "article", "order": 2 },
+            { "id": "proscan:uebersicht:article:proscan-bunkercrew", "title": "Proscan-Bunkercrew", "type": "article", "order": 3 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "proscan:tab:proscan-allgemein",
+      "title": "PROSCAN Allgemein",
+      "type": "tab",
+      "order": 2,
+      "children": [
+        {
+          "id": "proscan:proscan-allgemein:category:anlagerelevante-artikel",
+          "title": "Anlagerelevante Artikel",
+          "type": "category",
+          "order": 1,
+          "children": [
+            { "id": "proscan:proscan-allgemein:article:zpt", "title": "ZPT", "type": "article", "order": 1 },
+            { "id": "proscan:proscan-allgemein:article:spot-scanning", "title": "Spot-Scanning", "type": "article", "order": 2 },
+            { "id": "proscan:proscan-allgemein:article:behandlungen", "title": "Behandlungen", "type": "article", "order": 3 },
+            { "id": "proscan:proscan-allgemein:article:therapieablauf", "title": "Therapieablauf", "type": "article", "order": 4 },
+            { "id": "proscan:proscan-allgemein:article:flash-experiment-gantry1", "title": "FLASH-Experiment Gantry1", "type": "article", "order": 5 }
+          ]
+        },
+        {
+          "id": "proscan:proscan-allgemein:category:wichtig",
+          "title": "Wichtig",
+          "type": "category",
+          "order": 2,
+          "children": [
+            { "id": "proscan:proscan-allgemein:article:bedienhandbuch-comet", "title": "Bedienhandbuch COMET", "type": "article", "order": 1 },
+            { "id": "proscan:proscan-allgemein:article:flash-ueberbrueckung", "title": "Flash Überbrückung", "type": "article", "order": 2 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "proscan:tab:comet-zyklotron",
+      "title": "COMET Zyklotron",
+      "type": "tab",
+      "order": 3,
+      "children": [
+        {
+          "id": "proscan:comet:category:anlagerelevante-artikel",
+          "title": "Anlagerelevante Artikel",
+          "type": "category",
+          "order": 1,
+          "children": [
+            { "id": "proscan:comet:article:comet-zyklotron", "title": "COMET Zyklotron", "type": "article", "order": 1 },
+            { "id": "proscan:comet:article:vertical-deflector-beschreibung", "title": "Vertical Deflector (Beschreibung)", "type": "article", "order": 2 },
+            { "id": "proscan:comet:article:namensgebung-proscan", "title": "Namensgebung Proscan", "type": "article", "order": 3 }
+          ]
+        },
+        {
+          "id": "proscan:comet:category:wichtige-prozeduren",
+          "title": "Wichtige Prozeduren",
+          "type": "category",
+          "order": 2,
+          "children": [
+            { "id": "proscan:comet:article:betriebsablaeufe", "title": "Betriebsabläufe", "type": "article", "order": 1 },
+            { "id": "proscan:comet:article:flash-ueberbrueckung", "title": "Flash Überbrückung", "type": "article", "order": 2 },
+            { "id": "proscan:comet:article:notfall-prozedur", "title": "Notfall Prozedur", "type": "article", "order": 3 },
+            { "id": "proscan:comet:article:beschreibung-atm-test", "title": "Beschreibung ATM-Test", "type": "article", "order": 4 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "proscan:tab:gantry-2",
+      "title": "Gantry 2",
+      "type": "tab",
+      "order": 4,
+      "children": [
+        {
+          "id": "proscan:gantry-2:category:anlagerelevante-artikel",
+          "title": "Anlagerelevante Artikel",
+          "type": "category",
+          "order": 1,
+          "children": [
+            { "id": "proscan:gantry-2:article:gantry-2", "title": "Gantry 2", "type": "article", "order": 1 },
+            { "id": "proscan:gantry-2:article:lungenkrebs", "title": "Lungenkrebs", "type": "article", "order": 2 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "proscan:tab:gantry-3",
+      "title": "Gantry 3",
+      "type": "tab",
+      "order": 5,
+      "children": [
+        {
+          "id": "proscan:gantry-3:category:anlagerelevante-artikel",
+          "title": "Anlagerelevante Artikel",
+          "type": "category",
+          "order": 1,
+          "children": [
+            { "id": "proscan:gantry-3:article:gantry-3-allgemein", "title": "Gantry 3 Allgemein", "type": "article", "order": 1 },
+            { "id": "proscan:gantry-3:article:technische-daten", "title": "Technische Daten", "type": "article", "order": 2 },
+            { "id": "proscan:gantry-3:article:behandlungen", "title": "Behandlungen", "type": "article", "order": 3 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "proscan:tab:optis2",
+      "title": "OPTIS2",
+      "type": "tab",
+      "order": 6,
+      "children": []
+    },
+    {
+      "id": "proscan:tab:experimentier-areal",
+      "title": "Experimentier Areal",
+      "type": "tab",
+      "order": 7,
+      "children": []
+    },
+    {
+      "id": "proscan:tab:prozeduren",
+      "title": "Prozeduren",
+      "type": "tab",
+      "order": 8,
+      "children": [
+        {
+          "id": "proscan:prozeduren:category:inhaltsverzeichnis",
+          "title": "Inhaltsverzeichnis",
+          "type": "category",
+          "order": 1,
+          "children": [
+            { "id": "proscan:prozeduren:article:link-zur-notfall-prozedur", "title": "Link zur Notfall Prozedur", "type": "article", "order": 1 },
+            { "id": "proscan:prozeduren:article:kurzsetup-nach-service", "title": "Kurzsetup nach Service", "type": "article", "order": 2 },
+            { "id": "proscan:prozeduren:article:checkliste-hochfahren", "title": "Checkliste Hochfahren", "type": "article", "order": 3 },
+            { "id": "proscan:prozeduren:article:vorgehensweise-checkliste-hochfahren", "title": "Vorgehensweise zu Checkliste Hochfahren", "type": "article", "order": 4 },
+            { "id": "proscan:prozeduren:article:strahlweg-und-comet-einschalten", "title": "Strahlweg und COMET einschalten, hochfahren", "type": "article", "order": 5 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "proscan:tab:interlock-ueberbrueckung-flash-experiment",
+      "title": "Interlock Überbrückung Flash-Experiment",
+      "type": "tab",
+      "order": 9,
+      "children": [
+        {
+          "id": "proscan:interlock:category:neues-interlock",
+          "title": "Neues Interlock",
+          "type": "category",
+          "order": 1,
+          "children": [
+            { "id": "proscan:interlock:article:neues-interlock-vorbereitung", "title": "Vorbereitung", "type": "article", "order": 1 },
+            { "id": "proscan:interlock:article:neues-interlock-ueberbrueckung", "title": "Überbrückung", "type": "article", "order": 2 }
+          ]
+        },
+        {
+          "id": "proscan:interlock:category:altes-interlock",
+          "title": "Altes Interlock",
+          "type": "category",
+          "order": 2,
+          "children": [
+            { "id": "proscan:interlock:article:altes-interlock-vorbereitung", "title": "Vorbereitung", "type": "article", "order": 1 },
+            { "id": "proscan:interlock:article:altes-interlock-ueberbrueckung", "title": "Überbrückung", "type": "article", "order": 2 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "proscan:tab:zustaende",
+      "title": "Zustände",
+      "type": "tab",
+      "order": 10,
+      "children": [
+        {
+          "id": "proscan:zustaende:category:zustaende",
+          "title": "Zustände",
+          "type": "category",
+          "order": 1,
+          "children": [
+            { "id": "proscan:zustaende:article:zustand-service", "title": "Zustand Service", "type": "article", "order": 1 },
+            { "id": "proscan:zustaende:article:zustand-1", "title": "Zustand 1", "type": "article", "order": 2 },
+            { "id": "proscan:zustaende:article:zustand-2", "title": "Zustand 2", "type": "article", "order": 3 },
+            { "id": "proscan:zustaende:article:zustand-off", "title": "Zustand \"off\"", "type": "article", "order": 4 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "proscan:tab:infos-tipps-tricks",
+      "title": "Infos Tipps & Tricks",
+      "type": "tab",
+      "order": 11,
+      "children": [
+        {
+          "id": "proscan:infos:category:tipps-und-tricks",
+          "title": "Tipps & Tricks",
+          "type": "category",
+          "order": 1,
+          "children": [
+            { "id": "proscan:infos:article:h2-durchflussregler", "title": "H2 Durchflussregler kann nicht geändert werden", "type": "article", "order": 1 },
+            { "id": "proscan:infos:article:pass-interlocks", "title": "PaSS-Interlocks", "type": "article", "order": 2 },
+            { "id": "proscan:infos:article:remote-freigabe-varian", "title": "Remote-Freigabe für Varian", "type": "article", "order": 3 },
+            { "id": "proscan:infos:article:phasenspaltoptimierung", "title": "Phasenspaltoptimierung", "type": "article", "order": 4 },
+            { "id": "proscan:infos:article:iq-spannung-stabilisieren", "title": "IQ Spannung stabilisieren bei Schwingungen", "type": "article", "order": 5 },
+            { "id": "proscan:infos:article:problem-mit-zentrierung", "title": "Problem mit Zentrierung (SMJ1X:SOL:2) nach Reboot", "type": "article", "order": 6 }
+          ]
+        },
+        {
+          "id": "proscan:infos:category:betriebsinfos-weisungen",
+          "title": "Betriebsinfos und Weisungen",
+          "type": "category",
+          "order": 2,
+          "children": [
+            { "id": "proscan:infos:article:setup-nicht-moeglich", "title": "Setup nicht möglich", "type": "article", "order": 1 },
+            { "id": "proscan:infos:article:flash-experiment", "title": "Flash Experiment", "type": "article", "order": 2 },
+            { "id": "proscan:infos:article:phasenspalt-scans", "title": "Phasenspalt-Scans", "type": "article", "order": 3 },
+            { "id": "proscan:infos:article:comet-zustaende", "title": "COMET-Zustände", "type": "article", "order": 4 },
+            { "id": "proscan:infos:article:zentrieren-bis-bma1", "title": "Zentrieren bis BMA1", "type": "article", "order": 5 },
+            { "id": "proscan:infos:article:zu-viele-verluste", "title": "Zu viele Verluste auf den Phasenspalt", "type": "article", "order": 6 },
+            { "id": "proscan:infos:article:mastership-nicht-zurueckgegeben", "title": "Mastership wurde nicht zurückgegeben", "type": "article", "order": 7 },
+            { "id": "proscan:infos:article:psa-bedienung-experimentier-areal", "title": "PSA-Bedienung Experimentier-Areal", "type": "article", "order": 8 }
+          ]
+        },
+        {
+          "id": "proscan:infos:category:kontakte-controls",
+          "title": "Kontakte Controls",
+          "type": "category",
+          "order": 3,
+          "children": [
+            { "id": "proscan:infos:article:controls-contacts-gfa", "title": "Large Research Facilities (GFA) Controls Contacts", "type": "article", "order": 1 },
+            { "id": "proscan:infos:article:baseline-services-controls", "title": "Baseline Services Controls Contacts", "type": "article", "order": 2 },
+            { "id": "proscan:infos:article:controls-home-office", "title": "Controls Home Office Information", "type": "article", "order": 3 }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "id": "hipa",
+  "title": "HIPA",
+  "type": "accelerator",
+  "order": 1,
+  "lang": "de",
+  "source": "BeschleunigerWiki",
+  "children": [
+    {
+      "id": "hipa:tab:uebersicht",
+      "title": "Übersicht",
+      "type": "tab",
+      "order": 1,
+      "children": [
+        {
+          "id": "hipa:section:einfuhrung",
+          "title": "EINFÜHRUNG",
+          "type": "section",
+          "order": 1,
+          "children": [
+            {
+              "id": "hipa:category:theorie",
+              "title": "Theorie",
+              "type": "category",
+              "order": 1,
+              "children": [
+                { "id": "hipa:uebersicht:article:einleitung", "title": "Einleitung", "type": "article", "order": 1 },
+                { "id": "hipa:uebersicht:article:beschleunigerphysik", "title": "Beschleunigerphysik", "type": "article", "order": 2 },
+                { "id": "hipa:uebersicht:article:namensgebung-hipa", "title": "Namensgebung HIPA", "type": "article", "order": 3 },
+                { "id": "hipa:uebersicht:article:bekannte-formeln", "title": "Bekannte Formeln", "type": "article", "order": 4 }
+              ]
+            },
+            {
+              "id": "hipa:category:systemkunde",
+              "title": "Systemkunde",
+              "type": "category",
+              "order": 2,
+              "children": [
+                { "id": "hipa:uebersicht:article:gebaeudeleitsystem", "title": "Gebäudeleitsystem", "type": "article", "order": 1 },
+                { "id": "hipa:uebersicht:article:personensicherheitsanlage", "title": "Personensicherheitsanlage", "type": "article", "order": 2 },
+                { "id": "hipa:uebersicht:article:vakuum", "title": "Vakuum", "type": "article", "order": 3 },
+                { "id": "hipa:uebersicht:article:kontrollsystem", "title": "Kontrollsystem", "type": "article", "order": 4 }
+              ]
+            },
+            {
+              "id": "hipa:category:praxis",
+              "title": "Praxis",
+              "type": "category",
+              "order": 3,
+              "children": [
+                { "id": "hipa:uebersicht:article:software-applikationen", "title": "Software/Applikationen", "type": "article", "order": 1 },
+                { "id": "hipa:uebersicht:article:operator-ausbildung", "title": "Operator Ausbildung", "type": "article", "order": 2 },
+                { "id": "hipa:uebersicht:article:hipa-training", "title": "HIPA Training", "type": "article", "order": 3 },
+                { "id": "hipa:uebersicht:article:notfall-prozedur-hipa", "title": "Notfall Prozedur HIPA", "type": "article", "order": 4 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hipa:tab:hipa-allgemein",
+      "title": "HIPA Allgemein",
+      "type": "tab",
+      "order": 2,
+      "children": [
+        {
+          "id": "hipa:hipa-allgemein:category:anlagerelevante-artikel",
+          "title": "Anlagerelevante Artikel",
+          "type": "category",
+          "order": 1,
+          "children": [
+            { "id": "hipa:hipa-allgemein:article:touchpanel", "title": "Touchpanel", "type": "article", "order": 1 },
+            { "id": "hipa:hipa-allgemein:article:logbuch", "title": "Logbuch", "type": "article", "order": 2 },
+            { "id": "hipa:hipa-allgemein:article:interlocksystem", "title": "Interlocksystem", "type": "article", "order": 3 },
+            { "id": "hipa:hipa-allgemein:article:verluste", "title": "Verluste", "type": "article", "order": 4 },
+            { "id": "hipa:hipa-allgemein:article:umlaufszahl", "title": "Umlaufszahl", "type": "article", "order": 5 },
+            { "id": "hipa:hipa-allgemein:article:hf-phasen-und-signalverteilung", "title": "HF-Phasen und Signalverteilung", "type": "article", "order": 6 },
+            { "id": "hipa:hipa-allgemein:article:sektormagnet", "title": "Sektormagnet", "type": "article", "order": 7 },
+            { "id": "hipa:hipa-allgemein:article:ueberwachung-zentrierungen-regelungen", "title": "Überwachung v. Zentrierungen und Regelungen", "type": "article", "order": 8 },
+            { "id": "hipa:hipa-allgemein:article:data-logging", "title": "Data Logging", "type": "article", "order": 9 },
+            { "id": "hipa:hipa-allgemein:article:raumladung", "title": "Raumladung", "type": "article", "order": 10 },
+            { "id": "hipa:hipa-allgemein:article:zeitstrukturmessung", "title": "Zeitstrukturmessung", "type": "article", "order": 11 },
+            { "id": "hipa:hipa-allgemein:article:zyklotron-tune", "title": "Zyklotron-Tune", "type": "article", "order": 12 },
+            { "id": "hipa:hipa-allgemein:article:kategorie-hipa", "title": "Kategorie HIPA", "type": "article", "order": 13 },
+            { "id": "hipa:hipa-allgemein:article:strahlentwicklung", "title": "Strahlentwicklung", "type": "article", "order": 14 },
+            { "id": "hipa:hipa-allgemein:article:betriebsstatistik", "title": "Betriebsstatistik", "type": "article", "order": 15 }
+          ]
+        },
+        {
+          "id": "hipa:hipa-allgemein:category:wichtige-prozeduren",
+          "title": "Wichtige Prozeduren",
+          "type": "category",
+          "order": 2,
+          "children": [
+            { "id": "hipa:hipa-allgemein:article:betriebsmode-setzen", "title": "Betriebsmode setzen", "type": "article", "order": 1 },
+            { "id": "hipa:hipa-allgemein:article:aufbau-hochstrom-auf-bx2", "title": "Aufbau Hochstrom auf BX2", "type": "article", "order": 2 },
+            { "id": "hipa:hipa-allgemein:article:sinq-beam-dump-umstellen", "title": "Betriebsmode SINQ-Beam Dump umstellen", "type": "article", "order": 3 },
+            { "id": "hipa:hipa-allgemein:article:vorbereiten-fuer-ip2", "title": "Vorbereiten für IP2", "type": "article", "order": 4 },
+            { "id": "hipa:hipa-allgemein:article:ucn-checkliste", "title": "UCN Checkliste", "type": "article", "order": 5 },
+            { "id": "hipa:hipa-allgemein:article:strahlstrom-monitore-kalibrieren", "title": "Strahlstrom Monitore kalibrieren", "type": "article", "order": 6 },
+            { "id": "hipa:hipa-allgemein:article:checkliste-nach-stromausfaellen", "title": "Checkliste nach Stromausfällen", "type": "article", "order": 7 },
+            { "id": "hipa:hipa-allgemein:article:hochfahren", "title": "Hochfahren", "type": "article", "order": 8 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hipa:tab:cockcroft-walton",
+      "title": "Cockcroft Walton",
+      "type": "tab",
+      "order": 3,
+      "children": [
+        {
+          "id": "hipa:cockcroft-walton:category:anlagerelevante-artikel",
+          "title": "Anlagerelevante Artikel",
+          "type": "category",
+          "order": 1,
+          "children": [
+            { "id": "hipa:cockcroft-walton:article:von-0-bis-870kev", "title": "Von 0 bis 870keV", "type": "article", "order": 1 },
+            { "id": "hipa:cockcroft-walton:article:ecr-ionenquelle", "title": "ECR Ionenquelle", "type": "article", "order": 2 },
+            { "id": "hipa:cockcroft-walton:article:elektronenfalle", "title": "Die Elektronenfalle", "type": "article", "order": 3 },
+            { "id": "hipa:cockcroft-walton:article:erzeugung-870kv-hochspannung", "title": "Erzeugung der 870kV Hochspannung", "type": "article", "order": 4 },
+            { "id": "hipa:cockcroft-walton:article:kategorie-cockcroft-walton", "title": "Kategorie Cockcroft-Walton", "type": "article", "order": 5 },
+            { "id": "hipa:cockcroft-walton:article:avki-kicker", "title": "AVKI Kicker", "type": "article", "order": 6 }
+          ]
+        },
+        {
+          "id": "hipa:cockcroft-walton:category:wichtige-prozeduren",
+          "title": "Wichtige Prozeduren",
+          "type": "category",
+          "order": 2,
+          "children": [
+            { "id": "hipa:cockcroft-walton:article:ionenquelle-einschalten", "title": "Ionenquelle einschalten", "type": "article", "order": 1 },
+            { "id": "hipa:cockcroft-walton:article:ionenquelle-optimierung", "title": "Optimierung der Ionenquelle-Einstellung", "type": "article", "order": 2 },
+            { "id": "hipa:cockcroft-walton:article:ionenquelle-troubleshooting", "title": "Ionenquelle Troubleshooting", "type": "article", "order": 3 },
+            { "id": "hipa:cockcroft-walton:article:strahl-auf-bw2", "title": "Strahl auf BW2", "type": "article", "order": 5 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hipa:tab:iw870",
+      "title": "IW870",
+      "type": "tab",
+      "order": 4,
+      "children": [
+        {
+          "id": "hipa:iw870:category:anlagerelevante-artikel",
+          "title": "Anlagerelevante Artikel",
+          "type": "category",
+          "order": 1,
+          "children": [
+            { "id": "hipa:iw870:article:von-0-bis-870kev", "title": "Von 0 bis 870keV", "type": "article", "order": 1 },
+            { "id": "hipa:iw870:article:buncher-theorie", "title": "Buncher Theorie", "type": "article", "order": 2 },
+            { "id": "hipa:iw870:article:buncher-cwb-und-cwb3", "title": "Buncher CWB und CWB3", "type": "article", "order": 3 }
+          ]
+        },
+        {
+          "id": "hipa:iw870:category:wichtige-prozeduren",
+          "title": "Wichtige Prozeduren",
+          "type": "category",
+          "order": 2,
+          "children": [
+            { "id": "hipa:iw870:article:raumladung-abschaetzung", "title": "Raumladung Abschätzung", "type": "article", "order": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hipa:tab:injektor-2",
+      "title": "Injektor-2",
+      "type": "tab",
+      "order": 5,
+      "children": [
+        {
+          "id": "hipa:injektor-2:category:anlagerelevante-artikel",
+          "title": "Anlagerelevante Artikel",
+          "type": "category",
+          "order": 1,
+          "children": [
+            { "id": "hipa:injektor-2:article:isochronie", "title": "Isochronie", "type": "article", "order": 1 },
+            { "id": "hipa:injektor-2:article:umlaufszahl", "title": "Umlaufszahl", "type": "article", "order": 2 },
+            { "id": "hipa:injektor-2:article:sonden", "title": "Sonden", "type": "article", "order": 3 },
+            { "id": "hipa:injektor-2:article:kolimatoren", "title": "Kolimatoren", "type": "article", "order": 4 },
+            { "id": "hipa:injektor-2:article:injektor-2-scans", "title": "Injektor-2 Scans", "type": "article", "order": 5 },
+            { "id": "hipa:injektor-2:article:kategorie-injektor-2", "title": "Kategorie:Injektor-2", "type": "article", "order": 6 }
+          ]
+        },
+        {
+          "id": "hipa:injektor-2:category:wichtige-prozeduren",
+          "title": "Wichtige Prozeduren",
+          "type": "category",
+          "order": 2,
+          "children": [
+            { "id": "hipa:injektor-2:article:isochronie-finden", "title": "Isochronie finden", "type": "article", "order": 1 },
+            { "id": "hipa:injektor-2:article:strahl-aufbau-auf-bx2", "title": "Strahl-Aufbau auf BX2", "type": "article", "order": 2 },
+            { "id": "hipa:injektor-2:article:setup", "title": "Setup", "type": "article", "order": 3 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hipa:tab:iw2-ip2",
+      "title": "IW2/IP2",
+      "type": "tab",
+      "order": 6,
+      "children": [
+        {
+          "id": "hipa:iw2-ip2:category:anlagerelevante-artikel",
+          "title": "Anlagerelevante Artikel",
+          "type": "category",
+          "order": 1,
+          "children": [
+            { "id": "hipa:iw2-ip2:article:superbuncher", "title": "Superbuncher", "type": "article", "order": 1 },
+            { "id": "hipa:iw2-ip2:article:ext-werte", "title": "EXT Werte", "type": "article", "order": 2 },
+            { "id": "hipa:iw2-ip2:article:iw2-verluste", "title": "IW2 Verluste", "type": "article", "order": 3 },
+            { "id": "hipa:iw2-ip2:article:kategorie-iw2", "title": "Kategorie IW2", "type": "article", "order": 4 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hipa:tab:ring",
+      "title": "Ring",
+      "type": "tab",
+      "order": 7,
+      "children": [
+        {
+          "id": "hipa:ring:category:anlagerelevante-artikel",
+          "title": "Anlagerelevante Artikel",
+          "type": "category",
+          "order": 1,
+          "children": [
+            { "id": "hipa:ring:article:ringzyklotron", "title": "Ringzyklotron", "type": "article", "order": 1 },
+            { "id": "hipa:ring:article:kavitaet", "title": "Kavität", "type": "article", "order": 2 },
+            { "id": "hipa:ring:article:sektormagnet", "title": "Sektormagnet", "type": "article", "order": 3 },
+            { "id": "hipa:ring:article:umlaufszahl", "title": "Umlaufszahl", "type": "article", "order": 4 },
+            { "id": "hipa:ring:article:sonden", "title": "Sonden", "type": "article", "order": 5 },
+            { "id": "hipa:ring:article:verluste-ringextraktion", "title": "Verluste Ringextraktion", "type": "article", "order": 6 },
+            { "id": "hipa:ring:article:elektrostatische-elemente", "title": "Elektrostatische Elemente", "type": "article", "order": 7 },
+            { "id": "hipa:ring:article:hochfrequenz", "title": "Hochfrequenz", "type": "article", "order": 8 },
+            { "id": "hipa:ring:article:vakuum-kammer", "title": "Vakuum Kammer", "type": "article", "order": 9 },
+            { "id": "hipa:ring:article:kategorie-ringzyklotron", "title": "Kategorie Ringzyklotron", "type": "article", "order": 10 }
+          ]
+        },
+        {
+          "id": "hipa:ring:category:wichtige-prozeduren",
+          "title": "Wichtige Prozeduren",
+          "type": "category",
+          "order": 2,
+          "children": [
+            { "id": "hipa:ring:article:inbetriebnahme", "title": "Inbetriebnahme", "type": "article", "order": 1 },
+            { "id": "hipa:ring:article:hf-inbetriebnahme", "title": "HF Inbetriebnahme", "type": "article", "order": 2 },
+            { "id": "hipa:ring:article:elektrostatische-elemente-formieren", "title": "Elektrostatische Elemente formieren", "type": "article", "order": 3 },
+            { "id": "hipa:ring:article:ring-setup", "title": "Ring Setup", "type": "article", "order": 4 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hipa:tab:p-kanal",
+      "title": "P-Kanal",
+      "type": "tab",
+      "order": 8,
+      "children": [
+        {
+          "id": "hipa:p-kanal:category:anlagerelevante-artikel",
+          "title": "Anlagerelevante Artikel",
+          "type": "category",
+          "order": 1,
+          "children": [
+            { "id": "hipa:p-kanal:article:grundlagen", "title": "Grundlagen", "type": "article", "order": 1 },
+            { "id": "hipa:p-kanal:article:kategorie-p-kanal", "title": "Kategorie P-Kanal", "type": "article", "order": 2 }
+          ]
+        },
+        {
+          "id": "hipa:p-kanal:category:wichtige-prozeduren",
+          "title": "Wichtige Prozeduren",
+          "type": "category",
+          "order": 2,
+          "children": [
+            { "id": "hipa:p-kanal:article:inbetriebnahme-ring-und-protonenkanal", "title": "Inbetriebnahme Ring und Protonenkanal", "type": "article", "order": 1 },
+            { "id": "hipa:p-kanal:article:pie5-ahimp-impulsumstellung", "title": "PiE5 AHIMP Impulsumstellung", "type": "article", "order": 2 },
+            { "id": "hipa:p-kanal:article:p-kanal-setup", "title": "P-Kanal Setup", "type": "article", "order": 3 },
+            { "id": "hipa:p-kanal:article:target-e-zentrierung-badewannenplot", "title": "Target E Zentrierung (Badewannenplot)", "type": "article", "order": 4 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hipa:tab:targets",
+      "title": "Targets",
+      "type": "tab",
+      "order": 9,
+      "children": [
+        {
+          "id": "hipa:targets:category:anlagerelevante-artikel",
+          "title": "Anlagerelevante Artikel",
+          "type": "category",
+          "order": 1,
+          "children": [
+            { "id": "hipa:targets:article:ucn", "title": "UCN", "type": "article", "order": 1 },
+            { "id": "hipa:targets:article:ucn-applikationen", "title": "UCN Applikationen", "type": "article", "order": 2 },
+            { "id": "hipa:targets:article:target-m", "title": "Target M", "type": "article", "order": 3 },
+            { "id": "hipa:targets:article:target-e", "title": "Target E", "type": "article", "order": 4 },
+            { "id": "hipa:targets:article:sinq", "title": "SINQ", "type": "article", "order": 5 }
+          ]
+        },
+        {
+          "id": "hipa:targets:category:wichtige-prozeduren",
+          "title": "Wichtige Prozeduren",
+          "type": "category",
+          "order": 2,
+          "children": [
+            { "id": "hipa:targets:article:ip2-howtodo", "title": "IP2 HowToDo", "type": "article", "order": 1 },
+            { "id": "hipa:targets:article:strahlaufbau-ip2-72mev", "title": "Strahlaufbau IP2-72MeV", "type": "article", "order": 2 },
+            { "id": "hipa:targets:article:direktschuss-ip2", "title": "Direktschuss IP2", "type": "article", "order": 3 },
+            { "id": "hipa:targets:article:setup-ip2-0-5ua", "title": "Setup-IP2-0.5uA", "type": "article", "order": 4 },
+            { "id": "hipa:targets:article:ucn-checkliste", "title": "UCN Checkliste", "type": "article", "order": 5 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hipa:tab:experimente",
+      "title": "Experimente",
+      "type": "tab",
+      "order": 10,
+      "children": []
+    }
+  ]
+}

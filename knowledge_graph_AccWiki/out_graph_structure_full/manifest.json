@@ -1,0 +1,15 @@
+{
+  "generated_at": "2025-08-30T16:22:34Z",
+  "mode": "html",
+  "seeds": "/home/linus/psirag/acc_wiki_know_graph/knowledge_graph_AccWiki/combined_accelerators_clean.json",
+  "articles": 186,
+  "chunks": 1081,
+  "figures": 701,
+  "links": 2023,
+  "hierarchy_relationships": 397,
+  "embed_dim": 768,
+  "chunk_words": 300,
+  "overlap_words": 50,
+  "max_per_accel": null,
+  "embed_title": true
+}

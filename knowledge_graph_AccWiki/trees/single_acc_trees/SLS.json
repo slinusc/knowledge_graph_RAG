@@ -1,0 +1,245 @@
+{
+  "id": "sls",
+  "title": "SLS",
+  "type": "accelerator",
+  "order": 3,
+  "lang": "de",
+  "source": "BeschleunigerWiki",
+  "children": [
+    {
+      "id": "sls:tab:uebersicht",
+      "title": "Übersicht",
+      "type": "tab",
+      "order": 1,
+      "children": [
+        {
+          "id": "sls:section:einfuhrung",
+          "title": "EINFÜHRUNG",
+          "type": "section",
+          "order": 1,
+          "children": [
+            {
+              "id": "sls:category:theorie",
+              "title": "Theorie",
+              "type": "category",
+              "order": 1,
+              "children": [
+                { "id": "sls:uebersicht:article:einleitung", "title": "Einleitung", "type": "article", "order": 1 },
+                { "id": "sls:uebersicht:article:beschleunigerphysik", "title": "Beschleunigerphysik", "type": "article", "order": 2 },
+                { "id": "sls:uebersicht:article:beschleunigersysteme", "title": "Beschleunigersysteme", "type": "article", "order": 3 },
+                { "id": "sls:uebersicht:article:prozesse", "title": "Prozesse", "type": "article", "order": 4 },
+                { "id": "sls:uebersicht:article:namensgebung-sls", "title": "Namensgebung SLS", "type": "article", "order": 5 },
+                { "id": "sls:uebersicht:article:fuehrung-durch-die-sls", "title": "Führung durch die SLS", "type": "article", "order": 6 }
+              ]
+            },
+            {
+              "id": "sls:category:systemkunde",
+              "title": "Systemkunde",
+              "type": "category",
+              "order": 2,
+              "children": [
+                { "id": "sls:uebersicht:article:sicherheitssysteme", "title": "Sicherheitssysteme", "type": "article", "order": 1 },
+                { "id": "sls:uebersicht:article:gebaeudeleitsystem", "title": "Gebäudeleitsystem", "type": "article", "order": 2 },
+                { "id": "sls:uebersicht:article:hf-systeme", "title": "HF Systeme", "type": "article", "order": 3 },
+                { "id": "sls:uebersicht:article:magnete", "title": "Magnete", "type": "article", "order": 4 },
+                { "id": "sls:uebersicht:article:diagnostik", "title": "Diagnostik", "type": "article", "order": 5 },
+                { "id": "sls:uebersicht:article:vakuum", "title": "Vakuum", "type": "article", "order": 6 },
+                { "id": "sls:uebersicht:article:kontrollsystem", "title": "Kontrollsystem", "type": "article", "order": 7 },
+                { "id": "sls:uebersicht:article:insertion-devices", "title": "Insertion Devices", "type": "article", "order": 8 },
+                { "id": "sls:uebersicht:article:timing", "title": "Timing", "type": "article", "order": 9 },
+                { "id": "sls:uebersicht:article:feedback-systeme", "title": "Feedback Systeme", "type": "article", "order": 10 }
+              ]
+            },
+            {
+              "id": "sls:category:praxis",
+              "title": "Praxis",
+              "type": "category",
+              "order": 3,
+              "children": [
+                { "id": "sls:uebersicht:article:software-applikationen", "title": "Software / Applikationen", "type": "article", "order": 1 },
+                { "id": "sls:uebersicht:article:problemerkennung-analyse-behebung", "title": "Problemerkennung, -analyse und Behebung", "type": "article", "order": 2 },
+                { "id": "sls:uebersicht:article:anfahren-nach-ausfaellen-operator-training", "title": "Anfahren nach Ausfällen (Operator Training)", "type": "article", "order": 3 },
+                { "id": "sls:uebersicht:article:operator-ausbildung", "title": "Operator Ausbildung", "type": "article", "order": 4 },
+                { "id": "sls:uebersicht:article:betriebsablaeufe-sls", "title": "Betriebsabläufe SLS", "type": "article", "order": 5 },
+                { "id": "sls:uebersicht:article:termine-operator-training", "title": "Termine Operator Training", "type": "article", "order": 6 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sls:tab:infos",
+      "title": "Infos",
+      "type": "tab",
+      "order": 2,
+      "children": [
+        {
+          "id": "sls:infos:category:anlagerelevante-artikel-wiki",
+          "title": "Anlagerelevante Artikel in der Wiki",
+          "type": "category",
+          "order": 1,
+          "children": [
+            { "id": "sls:infos:article:sls-kategorie", "title": "SLS", "type": "article", "order": 1 },
+            { "id": "sls:infos:article:linac-kategorie", "title": "Linac", "type": "article", "order": 2 },
+            { "id": "sls:infos:article:booster-kategorie", "title": "Booster", "type": "article", "order": 3 },
+            { "id": "sls:infos:article:speicherring-kategorie", "title": "Speicherring", "type": "article", "order": 4 },
+            { "id": "sls:infos:article:strahllinien-kategorie", "title": "Strahllinien", "type": "article", "order": 5 },
+            { "id": "sls:infos:article:insertion-devices-kategorie", "title": "Insertion Devices", "type": "article", "order": 6 },
+            { "id": "sls:infos:article:kochbuch-sls", "title": "Kochbuch SLS", "type": "article", "order": 7 }
+          ]
+        },
+        {
+          "id": "sls:infos:category:anlagerelevante-webseiten",
+          "title": "Anlagerelevante Webseiten",
+          "type": "category",
+          "order": 2,
+          "children": [
+            { "id": "sls:infos:article:sls-status-display", "title": "SLS Status Display", "type": "article", "order": 1 },
+            {
+              "id": "sls:infos:category:sls-logbuecher",
+              "title": "SLS Logbücher",
+              "type": "category",
+              "order": 2,
+              "children": [
+                { "id": "sls:infos:article:operation-logbuch", "title": "SLS Operation Logbuch", "type": "article", "order": 1 },
+                { "id": "sls:infos:article:strahlentwicklungs-logbuch", "title": "SLS Strahlentwicklungs-Logbuch", "type": "article", "order": 2 }
+              ]
+            },
+            {
+              "id": "sls:infos:category:service-logbuecher",
+              "title": "Service Logbücher, Einträge zur SLS",
+              "type": "category",
+              "order": 3,
+              "children": [
+                { "id": "sls:infos:article:vakuum", "title": "Vakuum", "type": "article", "order": 1 },
+                { "id": "sls:infos:article:controls", "title": "Controls", "type": "article", "order": 2 }
+              ]
+            },
+            {
+              "id": "sls:infos:category:sonstige-webseiten",
+              "title": "Sonstige betriebsrelevante Webseiten",
+              "type": "category",
+              "order": 4,
+              "children": [
+                { "id": "sls:infos:article:schicht-pikett-aktuelle-woche", "title": "Schicht- und Pikett-Personal der aktuellen Woche", "type": "article", "order": 1 },
+                { "id": "sls:infos:article:mdm-sitzung-agenda-protokolle", "title": "MDM Sitzung: Agenda und Protokolle", "type": "article", "order": 2 },
+                { "id": "sls:infos:article:alarm-log", "title": "Alarm Log", "type": "article", "order": 3 },
+                { "id": "sls:infos:article:operation-event-log", "title": "Operation Event Log", "type": "article", "order": 4 },
+                { "id": "sls:infos:article:operation-statistik", "title": "SLS Operation Statistik", "type": "article", "order": 5 },
+                { "id": "sls:infos:article:betriebsinformation-known-issues", "title": "SLS Betriebsinformation (Known Issues)", "type": "article", "order": 6 },
+                { "id": "sls:infos:article:kontrollsystem-datenarchiv", "title": "Archivver (Kontrollsystem Datenarchiv)", "type": "article", "order": 7 },
+                { "id": "sls:infos:article:dokumentation-betriebsvorschrift-etc", "title": "Dokumentation: Betriebsvorschrift, Telefonlisten, Shutdown-Planung, etc.", "type": "article", "order": 8 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sls:tab:linac",
+      "title": "Linac",
+      "type": "tab",
+      "order": 3,
+      "children": [
+        {
+          "id": "sls:linac:category:anlagerelevante-artikel",
+          "title": "Anlagerelevante Artikel",
+          "type": "category",
+          "order": 1,
+          "children": [
+            { "id": "sls:linac:article:sls-kategorie", "title": "SLS", "type": "article", "order": 1 },
+            { "id": "sls:linac:article:linac-kategorie", "title": "Linac", "type": "article", "order": 2 }
+          ]
+        },
+        {
+          "id": "sls:linac:category:wichtige-prozeduren",
+          "title": "Wichtige Prozeduren",
+          "type": "category",
+          "order": 2,
+          "children": [
+            { "id": "sls:linac:article:transmissionsoptimierung", "title": "Transmissionsoptimierung", "type": "article", "order": 1 },
+            { "id": "sls:linac:article:energiemessung", "title": "Energiemessung", "type": "article", "order": 2 },
+            { "id": "sls:linac:article:emittanzmessung", "title": "Emittanzmessung", "type": "article", "order": 3 },
+            { "id": "sls:linac:article:operator-training-linac", "title": "Operator-Training Linac", "type": "article", "order": 4 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sls:tab:booster",
+      "title": "Booster",
+      "type": "tab",
+      "order": 4,
+      "children": [
+        {
+          "id": "sls:booster:category:anlagerelevante-artikel",
+          "title": "Anlagerelevante Artikel",
+          "type": "category",
+          "order": 1,
+          "children": [
+            { "id": "sls:booster:article:sls-kategorie", "title": "SLS", "type": "article", "order": 1 },
+            { "id": "sls:booster:article:booster-kategorie", "title": "Booster", "type": "article", "order": 2 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sls:tab:speicherring",
+      "title": "Speicherring",
+      "type": "tab",
+      "order": 5,
+      "children": [
+        {
+          "id": "sls:speicherring:category:anlagerelevante-artikel",
+          "title": "Anlagerelevante Artikel",
+          "type": "category",
+          "order": 1,
+          "children": [
+            { "id": "sls:speicherring:article:sls-kategorie", "title": "SLS", "type": "article", "order": 1 },
+            { "id": "sls:speicherring:article:speicherring-kategorie", "title": "Speicherring", "type": "article", "order": 2 }
+          ]
+        },
+        {
+          "id": "sls:speicherring:category:wichtige-prozeduren",
+          "title": "Wichtige Prozeduren",
+          "type": "category",
+          "order": 2,
+          "children": [
+            { "id": "sls:speicherring:article:beam-base-alignment", "title": "Beam Base Alignment", "type": "article", "order": 1 },
+            { "id": "sls:speicherring:article:bergozbpm-reorb-alignment", "title": "BergozBPM based reforb alignment", "type": "article", "order": 2 },
+            { "id": "sls:speicherring:article:bpm-nco-kalibration", "title": "BPM NCO Kalibration", "type": "article", "order": 3 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sls:tab:strahllinien",
+      "title": "Strahllinien",
+      "type": "tab",
+      "order": 6,
+      "children": [
+        {
+          "id": "sls:strahllinien:category:anlagerelevante-artikel",
+          "title": "Anlagerelevante Artikel",
+          "type": "category",
+          "order": 1,
+          "children": [
+            { "id": "sls:strahllinien:article:sls-kategorie", "title": "SLS", "type": "article", "order": 1 }
+          ]
+        },
+        {
+          "id": "sls:strahllinien:category:wichtige-prozeduren",
+          "title": "Wichtige Prozeduren",
+          "type": "category",
+          "order": 2,
+          "children": [
+            { "id": "sls:strahllinien:article:1", "title": "1", "type": "article", "order": 1 },
+            { "id": "sls:strahllinien:article:2", "title": "2", "type": "article", "order": 2 },
+            { "id": "sls:strahllinien:article:3", "title": "3", "type": "article", "order": 3 }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+# Core scraping dependencies
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# Database ingestion dependencies
+qdrant-client>=1.7.0
+neo4j>=5.15.0
+sentence-transformers>=2.2.0
+
+# ML/AI dependencies (for embeddings)
+# PyTorch with CUDA support (default), falls back to CPU if CUDA unavailable
+# For specific CUDA versions, install manually:
+#   CUDA 11.8: pip install torch>=2.0.0+cu118 --index-url https://download.pytorch.org/whl/cu118
+#   CUDA 12.1: pip install torch>=2.0.0+cu121 --index-url https://download.pytorch.org/whl/cu121
+#   CPU only: pip install torch>=2.0.0+cpu --index-url https://download.pytorch.org/whl/cpu
+torch>=2.0.0
+transformers>=4.30.0
+numpy>=1.24.0
+
+# Utility dependencies
+tqdm>=4.65.0
+typing-extensions>=4.5.0
+
+# Development/testing (optional)
+pytest>=7.4.0
+pytest-cov>=4.1.0

@@ -1,0 +1,2611 @@
+{
+  "id": "psi_accelerators",
+  "title": "PSI Accelerators",
+  "type": "root",
+  "description": "Combined knowledge graph of all PSI accelerator facilities",
+  "lang": "de",
+  "source": "BeschleunigerWiki",
+  "version": "1.0",
+  "created": "2025",
+  "accelerators": 4,
+  "children": [
+    {
+      "id": "hipa",
+      "title": "HIPA",
+      "type": "accelerator",
+      "order": 1,
+      "lang": "de",
+      "source": "BeschleunigerWiki",
+      "children": [
+        {
+          "id": "hipa:tab:uebersicht",
+          "title": "Übersicht",
+          "type": "tab",
+          "order": 1,
+          "children": [
+            {
+              "id": "hipa:section:einfuhrung",
+              "title": "EINFÜHRUNG",
+              "type": "section",
+              "order": 1,
+              "children": [
+                {
+                  "id": "hipa:category:theorie",
+                  "title": "Theorie",
+                  "type": "category",
+                  "order": 1,
+                  "children": [
+                    {
+                      "id": "hipa:uebersicht:article:einleitung",
+                      "title": "Einleitung",
+                      "type": "article",
+                      "order": 1
+                    },
+                    {
+                      "id": "hipa:uebersicht:article:beschleunigerphysik",
+                      "title": "Beschleunigerphysik",
+                      "type": "article",
+                      "order": 2
+                    },
+                    {
+                      "id": "hipa:uebersicht:article:namensgebung-hipa",
+                      "title": "Namensgebung HIPA",
+                      "type": "article",
+                      "order": 3
+                    },
+                    {
+                      "id": "hipa:uebersicht:article:bekannte-formeln",
+                      "title": "Bekannte Formeln",
+                      "type": "article",
+                      "order": 4
+                    }
+                  ]
+                },
+                {
+                  "id": "hipa:category:systemkunde",
+                  "title": "Systemkunde",
+                  "type": "category",
+                  "order": 2,
+                  "children": [
+                    {
+                      "id": "hipa:uebersicht:article:gebaeudeleitsystem",
+                      "title": "Gebäudeleitsystem",
+                      "type": "article",
+                      "order": 1
+                    },
+                    {
+                      "id": "hipa:uebersicht:article:personensicherheitsanlage",
+                      "title": "Personensicherheitsanlage",
+                      "type": "article",
+                      "order": 2
+                    },
+                    {
+                      "id": "hipa:uebersicht:article:vakuum",
+                      "title": "Vakuum",
+                      "type": "article",
+                      "order": 3
+                    },
+                    {
+                      "id": "hipa:uebersicht:article:kontrollsystem",
+                      "title": "Kontrollsystem",
+                      "type": "article",
+                      "order": 4
+                    }
+                  ]
+                },
+                {
+                  "id": "hipa:category:praxis",
+                  "title": "Praxis",
+                  "type": "category",
+                  "order": 3,
+                  "children": [
+                    {
+                      "id": "hipa:uebersicht:article:software-applikationen",
+                      "title": "Software/Applikationen",
+                      "type": "article",
+                      "order": 1
+                    },
+                    {
+                      "id": "hipa:uebersicht:article:operator-ausbildung",
+                      "title": "Operator Ausbildung",
+                      "type": "article",
+                      "order": 2
+                    },
+                    {
+                      "id": "hipa:uebersicht:article:hipa-training",
+                      "title": "HIPA Training",
+                      "type": "article",
+                      "order": 3
+                    },
+                    {
+                      "id": "hipa:uebersicht:article:notfall-prozedur-hipa",
+                      "title": "Notfall Prozedur HIPA",
+                      "type": "article",
+                      "order": 4
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "hipa:tab:hipa-allgemein",
+          "title": "HIPA Allgemein",
+          "type": "tab",
+          "order": 2,
+          "children": [
+            {
+              "id": "hipa:hipa-allgemein:category:anlagerelevante-artikel",
+              "title": "Anlagerelevante Artikel",
+              "type": "category",
+              "order": 1,
+              "children": [
+                {
+                  "id": "hipa:hipa-allgemein:article:touchpanel",
+                  "title": "Touchpanel",
+                  "type": "article",
+                  "order": 1
+                },
+                {
+                  "id": "hipa:hipa-allgemein:article:logbuch",
+                  "title": "Logbuch",
+                  "type": "article",
+                  "order": 2
+                },
+                {
+                  "id": "hipa:hipa-allgemein:article:interlocksystem",
+                  "title": "Interlocksystem",
+                  "type": "article",
+                  "order": 3
+                },
+                {
+                  "id": "hipa:hipa-allgemein:article:verluste",
+                  "title": "Verluste",
+                  "type": "article",
+                  "order": 4
+                },
+                {
+                  "id": "hipa:hipa-allgemein:article:umlaufszahl",
+                  "title": "Umlaufszahl",
+                  "type": "article",
+                  "order": 5
+                },
+                {
+                  "id": "hipa:hipa-allgemein:article:hf-phasen-und-signalverteilung",
+                  "title": "HF-Phasen und Signalverteilung",
+                  "type": "article",
+                  "order": 6
+                },
+                {
+                  "id": "hipa:hipa-allgemein:article:sektormagnet",
+                  "title": "Sektormagnet",
+                  "type": "article",
+                  "order": 7
+                },
+                {
+                  "id": "hipa:hipa-allgemein:article:ueberwachung-zentrierungen-regelungen",
+                  "title": "Überwachung v. Zentrierungen und Regelungen",
+                  "type": "article",
+                  "order": 8
+                },
+                {
+                  "id": "hipa:hipa-allgemein:article:data-logging",
+                  "title": "Data Logging",
+                  "type": "article",
+                  "order": 9
+                },
+                {
+                  "id": "hipa:hipa-allgemein:article:raumladung",
+                  "title": "Raumladung",
+                  "type": "article",
+                  "order": 10
+                },
+                {
+                  "id": "hipa:hipa-allgemein:article:zeitstrukturmessung",
+                  "title": "Zeitstrukturmessung",
+                  "type": "article",
+                  "order": 11
+                },
+                {
+                  "id": "hipa:hipa-allgemein:article:zyklotron-tune",
+                  "title": "Zyklotron-Tune",
+                  "type": "article",
+                  "order": 12
+                },
+                {
+                  "id": "hipa:hipa-allgemein:article:kategorie-hipa",
+                  "title": "Kategorie HIPA",
+                  "type": "article",
+                  "order": 13
+                },
+                {
+                  "id": "hipa:hipa-allgemein:article:strahlentwicklung",
+                  "title": "Strahlentwicklung",
+                  "type": "article",
+                  "order": 14
+                },
+                {
+                  "id": "hipa:hipa-allgemein:article:betriebsstatistik",
+                  "title": "Betriebsstatistik",
+                  "type": "article",
+                  "order": 15
+                }
+              ]
+            },
+            {
+              "id": "hipa:hipa-allgemein:category:wichtige-prozeduren",
+              "title": "Wichtige Prozeduren",
+              "type": "category",
+              "order": 2,
+              "children": [
+                {
+                  "id": "hipa:hipa-allgemein:article:betriebsmode-setzen",
+                  "title": "Betriebsmode setzen",
+                  "type": "article",
+                  "order": 1
+                },
+                {
+                  "id": "hipa:hipa-allgemein:article:aufbau-hochstrom-auf-bx2",
+                  "title": "Aufbau Hochstrom auf BX2",
+                  "type": "article",
+                  "order": 2
+                },
+                {
+                  "id": "hipa:hipa-allgemein:article:sinq-beam-dump-umstellen",
+                  "title": "Betriebsmode SINQ-Beam Dump umstellen",
+                  "type": "article",
+                  "order": 3
+                },
+                {
+                  "id": "hipa:hipa-allgemein:article:vorbereiten-fuer-ip2",
+                  "title": "Vorbereiten für IP2",
+                  "type": "article",
+                  "order": 4
+                },
+                {
+                  "id": "hipa:hipa-allgemein:article:ucn-checkliste",
+                  "title": "UCN Checkliste",
+                  "type": "article",
+                  "order": 5
+                },
+                {
+                  "id": "hipa:hipa-allgemein:article:strahlstrom-monitore-kalibrieren",
+                  "title": "Strahlstrom Monitore kalibrieren",
+                  "type": "article",
+                  "order": 6
+                },
+                {
+                  "id": "hipa:hipa-allgemein:article:checkliste-nach-stromausfaellen",
+                  "title": "Checkliste nach Stromausfällen",
+                  "type": "article",
+                  "order": 7
+                },
+                {
+                  "id": "hipa:hipa-allgemein:article:hochfahren",
+                  "title": "Hochfahren",
+                  "type": "article",
+                  "order": 8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "hipa:tab:cockcroft-walton",
+          "title": "Cockcroft Walton",
+          "type": "tab",
+          "order": 3,
+          "children": [
+            {
+              "id": "hipa:cockcroft-walton:category:anlagerelevante-artikel",
+              "title": "Anlagerelevante Artikel",
+              "type": "category",
+              "order": 1,
+              "children": [
+                {
+                  "id": "hipa:cockcroft-walton:article:von-0-bis-870kev",
+                  "title": "Von 0 bis 870keV",
+                  "type": "article",
+                  "order": 1
+                },
+                {
+                  "id": "hipa:cockcroft-walton:article:ecr-ionenquelle",
+                  "title": "ECR Ionenquelle",
+                  "type": "article",
+                  "order": 2
+                },
+                {
+                  "id": "hipa:cockcroft-walton:article:elektronenfalle",
+                  "title": "Die Elektronenfalle",
+                  "type": "article",
+                  "order": 3
+                },
+                {
+                  "id": "hipa:cockcroft-walton:article:erzeugung-870kv-hochspannung",
+                  "title": "Erzeugung der 870kV Hochspannung",
+                  "type": "article",
+                  "order": 4
+                },
+                {
+                  "id": "hipa:cockcroft-walton:article:kategorie-cockcroft-walton",
+                  "title": "Kategorie Cockcroft-Walton",
+                  "type": "article",
+                  "order": 5
+                },
+                {
+                  "id": "hipa:cockcroft-walton:article:avki-kicker",
+                  "title": "AVKI Kicker",
+                  "type": "article",
+                  "order": 6
+                }
+              ]
+            },
+            {
+              "id": "hipa:cockcroft-walton:category:wichtige-prozeduren",
+              "title": "Wichtige Prozeduren",
+              "type": "category",
+              "order": 2,
+              "children": [
+                {
+                  "id": "hipa:cockcroft-walton:article:ionenquelle-einschalten",
+                  "title": "Ionenquelle einschalten",
+                  "type": "article",
+                  "order": 1
+                },
+                {
+                  "id": "hipa:cockcroft-walton:article:ionenquelle-optimierung",
+                  "title": "Optimierung der Ionenquelle-Einstellung",
+                  "type": "article",
+                  "order": 2
+                },
+                {
+                  "id": "hipa:cockcroft-walton:article:ionenquelle-troubleshooting",
+                  "title": "Ionenquelle Troubleshooting",
+                  "type": "article",
+                  "order": 3
+                },
+                {
+                  "id": "hipa:cockcroft-walton:article:strahl-auf-bw2",
+                  "title": "Strahl auf BW2",
+                  "type": "article",
+                  "order": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "hipa:tab:iw870",
+          "title": "IW870",
+          "type": "tab",
+          "order": 4,
+          "children": [
+            {
+              "id": "hipa:iw870:category:anlagerelevante-artikel",
+              "title": "Anlagerelevante Artikel",
+              "type": "category",
+              "order": 1,
+              "children": [
+                {
+                  "id": "hipa:iw870:article:von-0-bis-870kev",
+                  "title": "Von 0 bis 870keV",
+                  "type": "article",
+                  "order": 1
+                },
+                {
+                  "id": "hipa:iw870:article:buncher-theorie",
+                  "title": "Buncher Theorie",
+                  "type": "article",
+                  "order": 2
+                },
+                {
+                  "id": "hipa:iw870:article:buncher-cwb-und-cwb3",
+                  "title": "Buncher CWB und CWB3",
+                  "type": "article",
+                  "order": 3
+                }
+              ]
+            },
+            {
+              "id": "hipa:iw870:category:wichtige-prozeduren",
+              "title": "Wichtige Prozeduren",
+              "type": "category",
+              "order": 2,
+              "children": [
+                {
+                  "id": "hipa:iw870:article:raumladung-abschaetzung",
+                  "title": "Raumladung Abschätzung",
+                  "type": "article",
+                  "order": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "hipa:tab:injektor-2",
+          "title": "Injektor-2",
+          "type": "tab",
+          "order": 5,
+          "children": [
+            {
+              "id": "hipa:injektor-2:category:anlagerelevante-artikel",
+              "title": "Anlagerelevante Artikel",
+              "type": "category",
+              "order": 1,
+              "children": [
+                {
+                  "id": "hipa:injektor-2:article:isochronie",
+                  "title": "Isochronie",
+                  "type": "article",
+                  "order": 1
+                },
+                {
+                  "id": "hipa:injektor-2:article:umlaufszahl",
+                  "title": "Umlaufszahl",
+                  "type": "article",
+                  "order": 2
+                },
+                {
+                  "id": "hipa:injektor-2:article:sonden",
+                  "title": "Sonden",
+                  "type": "article",
+                  "order": 3
+                },
+                {
+                  "id": "hipa:injektor-2:article:kolimatoren",
+                  "title": "Kolimatoren",
+                  "type": "article",
+                  "order": 4
+                },
+                {
+                  "id": "hipa:injektor-2:article:injektor-2-scans",
+                  "title": "Injektor-2 Scans",
+                  "type": "article",
+                  "order": 5
+                },
+                {
+                  "id": "hipa:injektor-2:article:kategorie-injektor-2",
+                  "title": "Kategorie:Injektor-2",
+                  "type": "article",
+                  "order": 6
+                }
+              ]
+            },
+            {
+              "id": "hipa:injektor-2:category:wichtige-prozeduren",
+              "title": "Wichtige Prozeduren",
+              "type": "category",
+              "order": 2,
+              "children": [
+                {
+                  "id": "hipa:injektor-2:article:isochronie-finden",
+                  "title": "Isochronie finden",
+                  "type": "article",
+                  "order": 1
+                },
+                {
+                  "id": "hipa:injektor-2:article:strahl-aufbau-auf-bx2",
+                  "title": "Strahl-Aufbau auf BX2",
+                  "type": "article",
+                  "order": 2
+                },
+                {
+                  "id": "hipa:injektor-2:article:setup",
+                  "title": "Setup",
+                  "type": "article",
+                  "order": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "hipa:tab:iw2-ip2",
+          "title": "IW2/IP2",
+          "type": "tab",
+          "order": 6,
+          "children": [
+            {
+              "id": "hipa:iw2-ip2:category:anlagerelevante-artikel",
+              "title": "Anlagerelevante Artikel",
+              "type": "category",
+              "order": 1,
+              "children": [
+                {
+                  "id": "hipa:iw2-ip2:article:superbuncher",
+                  "title": "Superbuncher",
+                  "type": "article",
+                  "order": 1
+                },
+                {
+                  "id": "hipa:iw2-ip2:article:ext-werte",
+                  "title": "EXT Werte",
+                  "type": "article",
+                  "order": 2
+                },
+                {
+                  "id": "hipa:iw2-ip2:article:iw2-verluste",
+                  "title": "IW2 Verluste",
+                  "type": "article",
+                  "order": 3
+                },
+                {
+                  "id": "hipa:iw2-ip2:article:kategorie-iw2",
+                  "title": "Kategorie IW2",
+                  "type": "article",
+                  "order": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "hipa:tab:ring",
+          "title": "Ring",
+          "type": "tab",
+          "order": 7,
+          "children": [
+            {
+              "id": "hipa:ring:category:anlagerelevante-artikel",
+              "title": "Anlagerelevante Artikel",
+              "type": "category",
+              "order": 1,
+              "children": [
+                {
+                  "id": "hipa:ring:article:ringzyklotron",
+                  "title": "Ringzyklotron",
+                  "type": "article",
+                  "order": 1
+                },
+                {
+                  "id": "hipa:ring:article:kavitaet",
+                  "title": "Kavität",
+                  "type": "article",
+                  "order": 2
+                },
+                {
+                  "id": "hipa:ring:article:sektormagnet",
+                  "title": "Sektormagnet",
+                  "type": "article",
+                  "order": 3
+                },
+                {
+                  "id": "hipa:ring:article:umlaufszahl",
+                  "title": "Umlaufszahl",
+                  "type": "article",
+                  "order": 4
+                },
+                {
+                  "id": "hipa:ring:article:sonden",
+                  "title": "Sonden",
+                  "type": "article",
+                  "order": 5
+                },
+                {
+                  "id": "hipa:ring:article:verluste-ringextraktion",
+                  "title": "Verluste Ringextraktion",
+                  "type": "article",
+                  "order": 6
+                },
+                {
+                  "id": "hipa:ring:article:elektrostatische-elemente",
+                  "title": "Elektrostatische Elemente",
+                  "type": "article",
+                  "order": 7
+                },
+                {
+                  "id": "hipa:ring:article:hochfrequenz",
+                  "title": "Hochfrequenz",
+                  "type": "article",
+                  "order": 8
+                },
+                {
+                  "id": "hipa:ring:article:vakuum-kammer",
+                  "title": "Vakuum Kammer",
+                  "type": "article",
+                  "order": 9
+                },
+                {
+                  "id": "hipa:ring:article:kategorie-ringzyklotron",
+                  "title": "Kategorie Ringzyklotron",
+                  "type": "article",
+                  "order": 10
+                }
+              ]
+            },
+            {
+              "id": "hipa:ring:category:wichtige-prozeduren",
+              "title": "Wichtige Prozeduren",
+              "type": "category",
+              "order": 2,
+              "children": [
+                {
+                  "id": "hipa:ring:article:inbetriebnahme",
+                  "title": "Inbetriebnahme",
+                  "type": "article",
+                  "order": 1
+                },
+                {
+                  "id": "hipa:ring:article:hf-inbetriebnahme",
+                  "title": "HF Inbetriebnahme",
+                  "type": "article",
+                  "order": 2
+                },
+                {
+                  "id": "hipa:ring:article:elektrostatische-elemente-formieren",
+                  "title": "Elektrostatische Elemente formieren",
+                  "type": "article",
+                  "order": 3
+                },
+                {
+                  "id": "hipa:ring:article:ring-setup",
+                  "title": "Ring Setup",
+                  "type": "article",
+                  "order": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "hipa:tab:p-kanal",
+          "title": "P-Kanal",
+          "type": "tab",
+          "order": 8,
+          "children": [
+            {
+              "id": "hipa:p-kanal:category:anlagerelevante-artikel",
+              "title": "Anlagerelevante Artikel",
+              "type": "category",
+              "order": 1,
+              "children": [
+                {
+                  "id": "hipa:p-kanal:article:grundlagen",
+                  "title": "Grundlagen",
+                  "type": "article",
+                  "order": 1
+                },
+                {
+                  "id": "hipa:p-kanal:article:kategorie-p-kanal",
+                  "title": "Kategorie P-Kanal",
+                  "type": "article",
+                  "order": 2
+                }
+              ]
+            },
+            {
+              "id": "hipa:p-kanal:category:wichtige-prozeduren",
+              "title": "Wichtige Prozeduren",
+              "type": "category",
+              "order": 2,
+              "children": [
+                {
+                  "id": "hipa:p-kanal:article:inbetriebnahme-ring-und-protonenkanal",
+                  "title": "Inbetriebnahme Ring und Protonenkanal",
+                  "type": "article",
+                  "order": 1
+                },
+                {
+                  "id": "hipa:p-kanal:article:pie5-ahimp-impulsumstellung",
+                  "title": "PiE5 AHIMP Impulsumstellung",
+                  "type": "article",
+                  "order": 2
+                },
+                {
+                  "id": "hipa:p-kanal:article:p-kanal-setup",
+                  "title": "P-Kanal Setup",
+                  "type": "article",
+                  "order": 3
+                },
+                {
+                  "id": "hipa:p-kanal:article:target-e-zentrierung-badewannenplot",
+                  "title": "Target E Zentrierung (Badewannenplot)",
+                  "type": "article",
+                  "order": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "hipa:tab:targets",
+          "title": "Targets",
+          "type": "tab",
+          "order": 9,
+          "children": [
+            {
+              "id": "hipa:targets:category:anlagerelevante-artikel",
+              "title": "Anlagerelevante Artikel",
+              "type": "category",
+              "order": 1,
+              "children": [
+                {
+                  "id": "hipa:targets:article:ucn",
+                  "title": "UCN",
+                  "type": "article",
+                  "order": 1
+                },
+                {
+                  "id": "hipa:targets:article:ucn-applikationen",
+                  "title": "UCN Applikationen",
+                  "type": "article",
+                  "order": 2
+                },
+                {
+                  "id": "hipa:targets:article:target-m",
+                  "title": "Target M",
+                  "type": "article",
+                  "order": 3
+                },
+                {
+                  "id": "hipa:targets:article:target-e",
+                  "title": "Target E",
+                  "type": "article",
+                  "order": 4
+                },
+                {
+                  "id": "hipa:targets:article:sinq",
+                  "title": "SINQ",
+                  "type": "article",
+                  "order": 5
+                }
+              ]
+            },
+            {
+              "id": "hipa:targets:category:wichtige-prozeduren",
+              "title": "Wichtige Prozeduren",
+              "type": "category",
+              "order": 2,
+              "children": [
+                {
+                  "id": "hipa:targets:article:ip2-howtodo",
+                  "title": "IP2 HowToDo",
+                  "type": "article",
+                  "order": 1
+                },
+                {
+                  "id": "hipa:targets:article:strahlaufbau-ip2-72mev",
+                  "title": "Strahlaufbau IP2-72MeV",
+                  "type": "article",
+                  "order": 2
+                },
+                {
+                  "id": "hipa:targets:article:direktschuss-ip2",
+                  "title": "Direktschuss IP2",
+                  "type": "article",
+                  "order": 3
+                },
+                {
+                  "id": "hipa:targets:article:setup-ip2-0-5ua",
+                  "title": "Setup-IP2-0.5uA",
+                  "type": "article",
+                  "order": 4
+                },
+                {
+                  "id": "hipa:targets:article:ucn-checkliste",
+                  "title": "UCN Checkliste",
+                  "type": "article",
+                  "order": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "hipa:tab:experimente",
+          "title": "Experimente",
+          "type": "tab",
+          "order": 10,
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "proscan",
+      "title": "PROSCAN",
+      "type": "accelerator",
+      "order": 2,
+      "lang": "de",
+      "source": "BeschleunigerWiki",
+      "children": [
+        {
+          "id": "proscan:tab:uebersicht",
+          "title": "Übersicht",
+          "type": "tab",
+          "order": 1,
+          "children": [
+            {
+              "id": "proscan:section:einfuhrung",
+              "title": "EINFÜHRUNG",
+              "type": "section",
+              "order": 1,
+              "children": [
+                {
+                  "id": "proscan:category:theorie",
+                  "title": "Theorie",
+                  "type": "category",
+                  "order": 1,
+                  "children": [
+                    {
+                      "id": "proscan:uebersicht:article:einleitung",
+                      "title": "Einleitung",
+                      "type": "article",
+                      "order": 1
+                    },
+                    {
+                      "id": "proscan:uebersicht:article:beschleunigerphysik",
+                      "title": "Beschleunigerphysik",
+                      "type": "article",
+                      "order": 2
+                    },
+                    {
+                      "id": "proscan:uebersicht:article:beschleunigersysteme",
+                      "title": "Beschleunigersysteme",
+                      "type": "article",
+                      "order": 3
+                    },
+                    {
+                      "id": "proscan:uebersicht:article:prozesse",
+                      "title": "Prozesse",
+                      "type": "article",
+                      "order": 4
+                    },
+                    {
+                      "id": "proscan:uebersicht:article:namensgebung-proscan",
+                      "title": "Namensgebung Proscan",
+                      "type": "article",
+                      "order": 5
+                    },
+                    {
+                      "id": "proscan:uebersicht:article:erklaervideos",
+                      "title": "Erklärvideos",
+                      "type": "article",
+                      "order": 6
+                    }
+                  ]
+                },
+                {
+                  "id": "proscan:category:systemkunde",
+                  "title": "Systemkunde",
+                  "type": "category",
+                  "order": 2,
+                  "children": [
+                    {
+                      "id": "proscan:uebersicht:article:gebaeudeleitsystem",
+                      "title": "Gebäudeleitsystem",
+                      "type": "article",
+                      "order": 1
+                    },
+                    {
+                      "id": "proscan:uebersicht:article:sicherheitssysteme",
+                      "title": "Sicherheitssysteme",
+                      "type": "article",
+                      "order": 2
+                    },
+                    {
+                      "id": "proscan:uebersicht:article:hf-systeme",
+                      "title": "HF Systeme",
+                      "type": "article",
+                      "order": 3
+                    },
+                    {
+                      "id": "proscan:uebersicht:article:magnete",
+                      "title": "Magnete",
+                      "type": "article",
+                      "order": 4
+                    },
+                    {
+                      "id": "proscan:uebersicht:article:diagnostik",
+                      "title": "Diagnostik",
+                      "type": "article",
+                      "order": 5
+                    },
+                    {
+                      "id": "proscan:uebersicht:article:vakuum",
+                      "title": "Vakuum",
+                      "type": "article",
+                      "order": 6
+                    },
+                    {
+                      "id": "proscan:uebersicht:article:kontrollsystem",
+                      "title": "Kontrollsystem",
+                      "type": "article",
+                      "order": 7
+                    },
+                    {
+                      "id": "proscan:uebersicht:article:vertical-deflector-beschreibung",
+                      "title": "Vertical Deflector (Beschreibung)",
+                      "type": "article",
+                      "order": 8
+                    }
+                  ]
+                },
+                {
+                  "id": "proscan:category:praxis",
+                  "title": "Praxis",
+                  "type": "category",
+                  "order": 3,
+                  "children": [
+                    {
+                      "id": "proscan:uebersicht:article:software-applikationen",
+                      "title": "Software / Applikationen",
+                      "type": "article",
+                      "order": 1
+                    },
+                    {
+                      "id": "proscan:uebersicht:article:problemerkennung-analyse-behebung",
+                      "title": "Problemerkennung, -analyse und Behebung",
+                      "type": "article",
+                      "order": 2
+                    },
+                    {
+                      "id": "proscan:uebersicht:article:anfahren-nach-ausfaellen",
+                      "title": "Anfahren nach Ausfällen",
+                      "type": "article",
+                      "order": 3
+                    },
+                    {
+                      "id": "proscan:uebersicht:article:operator-ausbildung",
+                      "title": "Operator Ausbildung",
+                      "type": "article",
+                      "order": 4
+                    },
+                    {
+                      "id": "proscan:uebersicht:article:betriebsablaeufe",
+                      "title": "Betriebsabläufe",
+                      "type": "article",
+                      "order": 5
+                    },
+                    {
+                      "id": "proscan:uebersicht:article:flash-ueberbrueckung",
+                      "title": "Flash Überbrückung",
+                      "type": "article",
+                      "order": 6
+                    },
+                    {
+                      "id": "proscan:uebersicht:article:notfall-prozedur",
+                      "title": "Notfall Prozedur",
+                      "type": "article",
+                      "order": 7
+                    },
+                    {
+                      "id": "proscan:uebersicht:article:beschreibung-atm-test",
+                      "title": "Beschreibung ATM-Test",
+                      "type": "article",
+                      "order": 8
+                    },
+                    {
+                      "id": "proscan:uebersicht:article:tipps-und-tricks",
+                      "title": "Tipps und Tricks",
+                      "type": "article",
+                      "order": 9
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "proscan:category:wichtige-e-mail-adressen",
+              "title": "Wichtige E-Mail-Adressen",
+              "type": "category",
+              "order": 2,
+              "children": [
+                {
+                  "id": "proscan:uebersicht:article:best-effort-email",
+                  "title": "Best Effort E-mail",
+                  "type": "article",
+                  "order": 1
+                },
+                {
+                  "id": "proscan:uebersicht:article:patienten-planung",
+                  "title": "Patienten-Planung",
+                  "type": "article",
+                  "order": 2
+                },
+                {
+                  "id": "proscan:uebersicht:article:proscan-bunkercrew",
+                  "title": "Proscan-Bunkercrew",
+                  "type": "article",
+                  "order": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "proscan:tab:proscan-allgemein",
+          "title": "PROSCAN Allgemein",
+          "type": "tab",
+          "order": 2,
+          "children": [
+            {
+              "id": "proscan:proscan-allgemein:category:anlagerelevante-artikel",
+              "title": "Anlagerelevante Artikel",
+              "type": "category",
+              "order": 1,
+              "children": [
+                {
+                  "id": "proscan:proscan-allgemein:article:zpt",
+                  "title": "ZPT",
+                  "type": "article",
+                  "order": 1
+                },
+                {
+                  "id": "proscan:proscan-allgemein:article:spot-scanning",
+                  "title": "Spot-Scanning",
+                  "type": "article",
+                  "order": 2
+                },
+                {
+                  "id": "proscan:proscan-allgemein:article:behandlungen",
+                  "title": "Behandlungen",
+                  "type": "article",
+                  "order": 3
+                },
+                {
+                  "id": "proscan:proscan-allgemein:article:therapieablauf",
+                  "title": "Therapieablauf",
+                  "type": "article",
+                  "order": 4
+                },
+                {
+                  "id": "proscan:proscan-allgemein:article:flash-experiment-gantry1",
+                  "title": "FLASH-Experiment Gantry1",
+                  "type": "article",
+                  "order": 5
+                }
+              ]
+            },
+            {
+              "id": "proscan:proscan-allgemein:category:wichtig",
+              "title": "Wichtig",
+              "type": "category",
+              "order": 2,
+              "children": [
+                {
+                  "id": "proscan:proscan-allgemein:article:bedienhandbuch-comet",
+                  "title": "Bedienhandbuch COMET",
+                  "type": "article",
+                  "order": 1
+                },
+                {
+                  "id": "proscan:proscan-allgemein:article:flash-ueberbrueckung",
+                  "title": "Flash Überbrückung",
+                  "type": "article",
+                  "order": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "proscan:tab:comet-zyklotron",
+          "title": "COMET Zyklotron",
+          "type": "tab",
+          "order": 3,
+          "children": [
+            {
+              "id": "proscan:comet:category:anlagerelevante-artikel",
+              "title": "Anlagerelevante Artikel",
+              "type": "category",
+              "order": 1,
+              "children": [
+                {
+                  "id": "proscan:comet:article:comet-zyklotron",
+                  "title": "COMET Zyklotron",
+                  "type": "article",
+                  "order": 1
+                },
+                {
+                  "id": "proscan:comet:article:vertical-deflector-beschreibung",
+                  "title": "Vertical Deflector (Beschreibung)",
+                  "type": "article",
+                  "order": 2
+                },
+                {
+                  "id": "proscan:comet:article:namensgebung-proscan",
+                  "title": "Namensgebung Proscan",
+                  "type": "article",
+                  "order": 3
+                }
+              ]
+            },
+            {
+              "id": "proscan:comet:category:wichtige-prozeduren",
+              "title": "Wichtige Prozeduren",
+              "type": "category",
+              "order": 2,
+              "children": [
+                {
+                  "id": "proscan:comet:article:betriebsablaeufe",
+                  "title": "Betriebsabläufe",
+                  "type": "article",
+                  "order": 1
+                },
+                {
+                  "id": "proscan:comet:article:flash-ueberbrueckung",
+                  "title": "Flash Überbrückung",
+                  "type": "article",
+                  "order": 2
+                },
+                {
+                  "id": "proscan:comet:article:notfall-prozedur",
+                  "title": "Notfall Prozedur",
+                  "type": "article",
+                  "order": 3
+                },
+                {
+                  "id": "proscan:comet:article:beschreibung-atm-test",
+                  "title": "Beschreibung ATM-Test",
+                  "type": "article",
+                  "order": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "proscan:tab:gantry-2",
+          "title": "Gantry 2",
+          "type": "tab",
+          "order": 4,
+          "children": [
+            {
+              "id": "proscan:gantry-2:category:anlagerelevante-artikel",
+              "title": "Anlagerelevante Artikel",
+              "type": "category",
+              "order": 1,
+              "children": [
+                {
+                  "id": "proscan:gantry-2:article:gantry-2",
+                  "title": "Gantry 2",
+                  "type": "article",
+                  "order": 1
+                },
+                {
+                  "id": "proscan:gantry-2:article:lungenkrebs",
+                  "title": "Lungenkrebs",
+                  "type": "article",
+                  "order": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "proscan:tab:gantry-3",
+          "title": "Gantry 3",
+          "type": "tab",
+          "order": 5,
+          "children": [
+            {
+              "id": "proscan:gantry-3:category:anlagerelevante-artikel",
+              "title": "Anlagerelevante Artikel",
+              "type": "category",
+              "order": 1,
+              "children": [
+                {
+                  "id": "proscan:gantry-3:article:gantry-3-allgemein",
+                  "title": "Gantry 3 Allgemein",
+                  "type": "article",
+                  "order": 1
+                },
+                {
+                  "id": "proscan:gantry-3:article:technische-daten",
+                  "title": "Technische Daten",
+                  "type": "article",
+                  "order": 2
+                },
+                {
+                  "id": "proscan:gantry-3:article:behandlungen",
+                  "title": "Behandlungen",
+                  "type": "article",
+                  "order": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "proscan:tab:optis2",
+          "title": "OPTIS2",
+          "type": "tab",
+          "order": 6,
+          "children": []
+        },
+        {
+          "id": "proscan:tab:experimentier-areal",
+          "title": "Experimentier Areal",
+          "type": "tab",
+          "order": 7,
+          "children": []
+        },
+        {
+          "id": "proscan:tab:prozeduren",
+          "title": "Prozeduren",
+          "type": "tab",
+          "order": 8,
+          "children": [
+            {
+              "id": "proscan:prozeduren:category:inhaltsverzeichnis",
+              "title": "Inhaltsverzeichnis",
+              "type": "category",
+              "order": 1,
+              "children": [
+                {
+                  "id": "proscan:prozeduren:article:link-zur-notfall-prozedur",
+                  "title": "Link zur Notfall Prozedur",
+                  "type": "article",
+                  "order": 1
+                },
+                {
+                  "id": "proscan:prozeduren:article:kurzsetup-nach-service",
+                  "title": "Kurzsetup nach Service",
+                  "type": "article",
+                  "order": 2
+                },
+                {
+                  "id": "proscan:prozeduren:article:checkliste-hochfahren",
+                  "title": "Checkliste Hochfahren",
+                  "type": "article",
+                  "order": 3
+                },
+                {
+                  "id": "proscan:prozeduren:article:vorgehensweise-checkliste-hochfahren",
+                  "title": "Vorgehensweise zu Checkliste Hochfahren",
+                  "type": "article",
+                  "order": 4
+                },
+                {
+                  "id": "proscan:prozeduren:article:strahlweg-und-comet-einschalten",
+                  "title": "Strahlweg und COMET einschalten, hochfahren",
+                  "type": "article",
+                  "order": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "proscan:tab:interlock-ueberbrueckung-flash-experiment",
+          "title": "Interlock Überbrückung Flash-Experiment",
+          "type": "tab",
+          "order": 9,
+          "children": [
+            {
+              "id": "proscan:interlock:category:neues-interlock",
+              "title": "Neues Interlock",
+              "type": "category",
+              "order": 1,
+              "children": [
+                {
+                  "id": "proscan:interlock:article:neues-interlock-vorbereitung",
+                  "title": "Vorbereitung",
+                  "type": "article",
+                  "order": 1
+                },
+                {
+                  "id": "proscan:interlock:article:neues-interlock-ueberbrueckung",
+                  "title": "Überbrückung",
+                  "type": "article",
+                  "order": 2
+                }
+              ]
+            },
+            {
+              "id": "proscan:interlock:category:altes-interlock",
+              "title": "Altes Interlock",
+              "type": "category",
+              "order": 2,
+              "children": [
+                {
+                  "id": "proscan:interlock:article:altes-interlock-vorbereitung",
+                  "title": "Vorbereitung",
+                  "type": "article",
+                  "order": 1
+                },
+                {
+                  "id": "proscan:interlock:article:altes-interlock-ueberbrueckung",
+                  "title": "Überbrückung",
+                  "type": "article",
+                  "order": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "proscan:tab:zustaende",
+          "title": "Zustände",
+          "type": "tab",
+          "order": 10,
+          "children": [
+            {
+              "id": "proscan:zustaende:category:zustaende",
+              "title": "Zustände",
+              "type": "category",
+              "order": 1,
+              "children": [
+                {
+                  "id": "proscan:zustaende:article:zustand-service",
+                  "title": "Zustand Service",
+                  "type": "article",
+                  "order": 1
+                },
+                {
+                  "id": "proscan:zustaende:article:zustand-1",
+                  "title": "Zustand 1",
+                  "type": "article",
+                  "order": 2
+                },
+                {
+                  "id": "proscan:zustaende:article:zustand-2",
+                  "title": "Zustand 2",
+                  "type": "article",
+                  "order": 3
+                },
+                {
+                  "id": "proscan:zustaende:article:zustand-off",
+                  "title": "Zustand \"off\"",
+                  "type": "article",
+                  "order": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "proscan:tab:infos-tipps-tricks",
+          "title": "Infos Tipps & Tricks",
+          "type": "tab",
+          "order": 11,
+          "children": [
+            {
+              "id": "proscan:infos:category:tipps-und-tricks",
+              "title": "Tipps & Tricks",
+              "type": "category",
+              "order": 1,
+              "children": [
+                {
+                  "id": "proscan:infos:article:h2-durchflussregler",
+                  "title": "H2 Durchflussregler kann nicht geändert werden",
+                  "type": "article",
+                  "order": 1
+                },
+                {
+                  "id": "proscan:infos:article:pass-interlocks",
+                  "title": "PaSS-Interlocks",
+                  "type": "article",
+                  "order": 2
+                },
+                {
+                  "id": "proscan:infos:article:remote-freigabe-varian",
+                  "title": "Remote-Freigabe für Varian",
+                  "type": "article",
+                  "order": 3
+                },
+                {
+                  "id": "proscan:infos:article:phasenspaltoptimierung",
+                  "title": "Phasenspaltoptimierung",
+                  "type": "article",
+                  "order": 4
+                },
+                {
+                  "id": "proscan:infos:article:iq-spannung-stabilisieren",
+                  "title": "IQ Spannung stabilisieren bei Schwingungen",
+                  "type": "article",
+                  "order": 5
+                },
+                {
+                  "id": "proscan:infos:article:problem-mit-zentrierung",
+                  "title": "Problem mit Zentrierung (SMJ1X:SOL:2) nach Reboot",
+                  "type": "article",
+                  "order": 6
+                }
+              ]
+            },
+            {
+              "id": "proscan:infos:category:betriebsinfos-weisungen",
+              "title": "Betriebsinfos und Weisungen",
+              "type": "category",
+              "order": 2,
+              "children": [
+                {
+                  "id": "proscan:infos:article:setup-nicht-moeglich",
+                  "title": "Setup nicht möglich",
+                  "type": "article",
+                  "order": 1
+                },
+                {
+                  "id": "proscan:infos:article:flash-experiment",
+                  "title": "Flash Experiment",
+                  "type": "article",
+                  "order": 2
+                },
+                {
+                  "id": "proscan:infos:article:phasenspalt-scans",
+                  "title": "Phasenspalt-Scans",
+                  "type": "article",
+                  "order": 3
+                },
+                {
+                  "id": "proscan:infos:article:comet-zustaende",
+                  "title": "COMET-Zustände",
+                  "type": "article",
+                  "order": 4
+                },
+                {
+                  "id": "proscan:infos:article:zentrieren-bis-bma1",
+                  "title": "Zentrieren bis BMA1",
+                  "type": "article",
+                  "order": 5
+                },
+                {
+                  "id": "proscan:infos:article:zu-viele-verluste",
+                  "title": "Zu viele Verluste auf den Phasenspalt",
+                  "type": "article",
+                  "order": 6
+                },
+                {
+                  "id": "proscan:infos:article:mastership-nicht-zurueckgegeben",
+                  "title": "Mastership wurde nicht zurückgegeben",
+                  "type": "article",
+                  "order": 7
+                },
+                {
+                  "id": "proscan:infos:article:psa-bedienung-experimentier-areal",
+                  "title": "PSA-Bedienung Experimentier-Areal",
+                  "type": "article",
+                  "order": 8
+                }
+              ]
+            },
+            {
+              "id": "proscan:infos:category:kontakte-controls",
+              "title": "Kontakte Controls",
+              "type": "category",
+              "order": 3,
+              "children": [
+                {
+                  "id": "proscan:infos:article:controls-contacts-gfa",
+                  "title": "Large Research Facilities (GFA) Controls Contacts",
+                  "type": "article",
+                  "order": 1
+                },
+                {
+                  "id": "proscan:infos:article:baseline-services-controls",
+                  "title": "Baseline Services Controls Contacts",
+                  "type": "article",
+                  "order": 2
+                },
+                {
+                  "id": "proscan:infos:article:controls-home-office",
+                  "title": "Controls Home Office Information",
+                  "type": "article",
+                  "order": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sls",
+      "title": "SLS",
+      "type": "accelerator",
+      "order": 3,
+      "lang": "de",
+      "source": "BeschleunigerWiki",
+      "children": [
+        {
+          "id": "sls:tab:uebersicht",
+          "title": "Übersicht",
+          "type": "tab",
+          "order": 1,
+          "children": [
+            {
+              "id": "sls:section:einfuhrung",
+              "title": "EINFÜHRUNG",
+              "type": "section",
+              "order": 1,
+              "children": [
+                {
+                  "id": "sls:category:theorie",
+                  "title": "Theorie",
+                  "type": "category",
+                  "order": 1,
+                  "children": [
+                    {
+                      "id": "sls:uebersicht:article:einleitung",
+                      "title": "Einleitung",
+                      "type": "article",
+                      "order": 1
+                    },
+                    {
+                      "id": "sls:uebersicht:article:beschleunigerphysik",
+                      "title": "Beschleunigerphysik",
+                      "type": "article",
+                      "order": 2
+                    },
+                    {
+                      "id": "sls:uebersicht:article:beschleunigersysteme",
+                      "title": "Beschleunigersysteme",
+                      "type": "article",
+                      "order": 3
+                    },
+                    {
+                      "id": "sls:uebersicht:article:prozesse",
+                      "title": "Prozesse",
+                      "type": "article",
+                      "order": 4
+                    },
+                    {
+                      "id": "sls:uebersicht:article:namensgebung-sls",
+                      "title": "Namensgebung SLS",
+                      "type": "article",
+                      "order": 5
+                    },
+                    {
+                      "id": "sls:uebersicht:article:fuehrung-durch-die-sls",
+                      "title": "Führung durch die SLS",
+                      "type": "article",
+                      "order": 6
+                    }
+                  ]
+                },
+                {
+                  "id": "sls:category:systemkunde",
+                  "title": "Systemkunde",
+                  "type": "category",
+                  "order": 2,
+                  "children": [
+                    {
+                      "id": "sls:uebersicht:article:sicherheitssysteme",
+                      "title": "Sicherheitssysteme",
+                      "type": "article",
+                      "order": 1
+                    },
+                    {
+                      "id": "sls:uebersicht:article:gebaeudeleitsystem",
+                      "title": "Gebäudeleitsystem",
+                      "type": "article",
+                      "order": 2
+                    },
+                    {
+                      "id": "sls:uebersicht:article:hf-systeme",
+                      "title": "HF Systeme",
+                      "type": "article",
+                      "order": 3
+                    },
+                    {
+                      "id": "sls:uebersicht:article:magnete",
+                      "title": "Magnete",
+                      "type": "article",
+                      "order": 4
+                    },
+                    {
+                      "id": "sls:uebersicht:article:diagnostik",
+                      "title": "Diagnostik",
+                      "type": "article",
+                      "order": 5
+                    },
+                    {
+                      "id": "sls:uebersicht:article:vakuum",
+                      "title": "Vakuum",
+                      "type": "article",
+                      "order": 6
+                    },
+                    {
+                      "id": "sls:uebersicht:article:kontrollsystem",
+                      "title": "Kontrollsystem",
+                      "type": "article",
+                      "order": 7
+                    },
+                    {
+                      "id": "sls:uebersicht:article:insertion-devices",
+                      "title": "Insertion Devices",
+                      "type": "article",
+                      "order": 8
+                    },
+                    {
+                      "id": "sls:uebersicht:article:timing",
+                      "title": "Timing",
+                      "type": "article",
+                      "order": 9
+                    },
+                    {
+                      "id": "sls:uebersicht:article:feedback-systeme",
+                      "title": "Feedback Systeme",
+                      "type": "article",
+                      "order": 10
+                    }
+                  ]
+                },
+                {
+                  "id": "sls:category:praxis",
+                  "title": "Praxis",
+                  "type": "category",
+                  "order": 3,
+                  "children": [
+                    {
+                      "id": "sls:uebersicht:article:software-applikationen",
+                      "title": "Software / Applikationen",
+                      "type": "article",
+                      "order": 1
+                    },
+                    {
+                      "id": "sls:uebersicht:article:problemerkennung-analyse-behebung",
+                      "title": "Problemerkennung, -analyse und Behebung",
+                      "type": "article",
+                      "order": 2
+                    },
+                    {
+                      "id": "sls:uebersicht:article:anfahren-nach-ausfaellen-operator-training",
+                      "title": "Anfahren nach Ausfällen (Operator Training)",
+                      "type": "article",
+                      "order": 3
+                    },
+                    {
+                      "id": "sls:uebersicht:article:operator-ausbildung",
+                      "title": "Operator Ausbildung",
+                      "type": "article",
+                      "order": 4
+                    },
+                    {
+                      "id": "sls:uebersicht:article:betriebsablaeufe-sls",
+                      "title": "Betriebsabläufe SLS",
+                      "type": "article",
+                      "order": 5
+                    },
+                    {
+                      "id": "sls:uebersicht:article:termine-operator-training",
+                      "title": "Termine Operator Training",
+                      "type": "article",
+                      "order": 6
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "sls:tab:infos",
+          "title": "Infos",
+          "type": "tab",
+          "order": 2,
+          "children": [
+            {
+              "id": "sls:infos:category:anlagerelevante-artikel-wiki",
+              "title": "Anlagerelevante Artikel in der Wiki",
+              "type": "category",
+              "order": 1,
+              "children": [
+                {
+                  "id": "sls:infos:article:sls-kategorie",
+                  "title": "SLS",
+                  "type": "article",
+                  "order": 1
+                },
+                {
+                  "id": "sls:infos:article:linac-kategorie",
+                  "title": "Linac",
+                  "type": "article",
+                  "order": 2
+                },
+                {
+                  "id": "sls:infos:article:booster-kategorie",
+                  "title": "Booster",
+                  "type": "article",
+                  "order": 3
+                },
+                {
+                  "id": "sls:infos:article:speicherring-kategorie",
+                  "title": "Speicherring",
+                  "type": "article",
+                  "order": 4
+                },
+                {
+                  "id": "sls:infos:article:strahllinien-kategorie",
+                  "title": "Strahllinien",
+                  "type": "article",
+                  "order": 5
+                },
+                {
+                  "id": "sls:infos:article:insertion-devices-kategorie",
+                  "title": "Insertion Devices",
+                  "type": "article",
+                  "order": 6
+                },
+                {
+                  "id": "sls:infos:article:kochbuch-sls",
+                  "title": "Kochbuch SLS",
+                  "type": "article",
+                  "order": 7
+                }
+              ]
+            },
+            {
+              "id": "sls:infos:category:anlagerelevante-webseiten",
+              "title": "Anlagerelevante Webseiten",
+              "type": "category",
+              "order": 2,
+              "children": [
+                {
+                  "id": "sls:infos:article:sls-status-display",
+                  "title": "SLS Status Display",
+                  "type": "article",
+                  "order": 1
+                },
+                {
+                  "id": "sls:infos:category:sls-logbuecher",
+                  "title": "SLS Logbücher",
+                  "type": "category",
+                  "order": 2,
+                  "children": [
+                    {
+                      "id": "sls:infos:article:operation-logbuch",
+                      "title": "SLS Operation Logbuch",
+                      "type": "article",
+                      "order": 1
+                    },
+                    {
+                      "id": "sls:infos:article:strahlentwicklungs-logbuch",
+                      "title": "SLS Strahlentwicklungs-Logbuch",
+                      "type": "article",
+                      "order": 2
+                    }
+                  ]
+                },
+                {
+                  "id": "sls:infos:category:service-logbuecher",
+                  "title": "Service Logbücher, Einträge zur SLS",
+                  "type": "category",
+                  "order": 3,
+                  "children": [
+                    {
+                      "id": "sls:infos:article:vakuum",
+                      "title": "Vakuum",
+                      "type": "article",
+                      "order": 1
+                    },
+                    {
+                      "id": "sls:infos:article:controls",
+                      "title": "Controls",
+                      "type": "article",
+                      "order": 2
+                    }
+                  ]
+                },
+                {
+                  "id": "sls:infos:category:sonstige-webseiten",
+                  "title": "Sonstige betriebsrelevante Webseiten",
+                  "type": "category",
+                  "order": 4,
+                  "children": [
+                    {
+                      "id": "sls:infos:article:schicht-pikett-aktuelle-woche",
+                      "title": "Schicht- und Pikett-Personal der aktuellen Woche",
+                      "type": "article",
+                      "order": 1
+                    },
+                    {
+                      "id": "sls:infos:article:mdm-sitzung-agenda-protokolle",
+                      "title": "MDM Sitzung: Agenda und Protokolle",
+                      "type": "article",
+                      "order": 2
+                    },
+                    {
+                      "id": "sls:infos:article:alarm-log",
+                      "title": "Alarm Log",
+                      "type": "article",
+                      "order": 3
+                    },
+                    {
+                      "id": "sls:infos:article:operation-event-log",
+                      "title": "Operation Event Log",
+                      "type": "article",
+                      "order": 4
+                    },
+                    {
+                      "id": "sls:infos:article:operation-statistik",
+                      "title": "SLS Operation Statistik",
+                      "type": "article",
+                      "order": 5
+                    },
+                    {
+                      "id": "sls:infos:article:betriebsinformation-known-issues",
+                      "title": "SLS Betriebsinformation (Known Issues)",
+                      "type": "article",
+                      "order": 6
+                    },
+                    {
+                      "id": "sls:infos:article:kontrollsystem-datenarchiv",
+                      "title": "Archivver (Kontrollsystem Datenarchiv)",
+                      "type": "article",
+                      "order": 7
+                    },
+                    {
+                      "id": "sls:infos:article:dokumentation-betriebsvorschrift-etc",
+                      "title": "Dokumentation: Betriebsvorschrift, Telefonlisten, Shutdown-Planung, etc.",
+                      "type": "article",
+                      "order": 8
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "sls:tab:linac",
+          "title": "Linac",
+          "type": "tab",
+          "order": 3,
+          "children": [
+            {
+              "id": "sls:linac:category:anlagerelevante-artikel",
+              "title": "Anlagerelevante Artikel",
+              "type": "category",
+              "order": 1,
+              "children": [
+                {
+                  "id": "sls:linac:article:sls-kategorie",
+                  "title": "SLS",
+                  "type": "article",
+                  "order": 1
+                },
+                {
+                  "id": "sls:linac:article:linac-kategorie",
+                  "title": "Linac",
+                  "type": "article",
+                  "order": 2
+                }
+              ]
+            },
+            {
+              "id": "sls:linac:category:wichtige-prozeduren",
+              "title": "Wichtige Prozeduren",
+              "type": "category",
+              "order": 2,
+              "children": [
+                {
+                  "id": "sls:linac:article:transmissionsoptimierung",
+                  "title": "Transmissionsoptimierung",
+                  "type": "article",
+                  "order": 1
+                },
+                {
+                  "id": "sls:linac:article:energiemessung",
+                  "title": "Energiemessung",
+                  "type": "article",
+                  "order": 2
+                },
+                {
+                  "id": "sls:linac:article:emittanzmessung",
+                  "title": "Emittanzmessung",
+                  "type": "article",
+                  "order": 3
+                },
+                {
+                  "id": "sls:linac:article:operator-training-linac",
+                  "title": "Operator-Training Linac",
+                  "type": "article",
+                  "order": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "sls:tab:booster",
+          "title": "Booster",
+          "type": "tab",
+          "order": 4,
+          "children": [
+            {
+              "id": "sls:booster:category:anlagerelevante-artikel",
+              "title": "Anlagerelevante Artikel",
+              "type": "category",
+              "order": 1,
+              "children": [
+                {
+                  "id": "sls:booster:article:sls-kategorie",
+                  "title": "SLS",
+                  "type": "article",
+                  "order": 1
+                },
+                {
+                  "id": "sls:booster:article:booster-kategorie",
+                  "title": "Booster",
+                  "type": "article",
+                  "order": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "sls:tab:speicherring",
+          "title": "Speicherring",
+          "type": "tab",
+          "order": 5,
+          "children": [
+            {
+              "id": "sls:speicherring:category:anlagerelevante-artikel",
+              "title": "Anlagerelevante Artikel",
+              "type": "category",
+              "order": 1,
+              "children": [
+                {
+                  "id": "sls:speicherring:article:sls-kategorie",
+                  "title": "SLS",
+                  "type": "article",
+                  "order": 1
+                },
+                {
+                  "id": "sls:speicherring:article:speicherring-kategorie",
+                  "title": "Speicherring",
+                  "type": "article",
+                  "order": 2
+                }
+              ]
+            },
+            {
+              "id": "sls:speicherring:category:wichtige-prozeduren",
+              "title": "Wichtige Prozeduren",
+              "type": "category",
+              "order": 2,
+              "children": [
+                {
+                  "id": "sls:speicherring:article:beam-base-alignment",
+                  "title": "Beam Base Alignment",
+                  "type": "article",
+                  "order": 1
+                },
+                {
+                  "id": "sls:speicherring:article:bergozbpm-reorb-alignment",
+                  "title": "BergozBPM based reforb alignment",
+                  "type": "article",
+                  "order": 2
+                },
+                {
+                  "id": "sls:speicherring:article:bpm-nco-kalibration",
+                  "title": "BPM NCO Kalibration",
+                  "type": "article",
+                  "order": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "sls:tab:strahllinien",
+          "title": "Strahllinien",
+          "type": "tab",
+          "order": 6,
+          "children": [
+            {
+              "id": "sls:strahllinien:category:anlagerelevante-artikel",
+              "title": "Anlagerelevante Artikel",
+              "type": "category",
+              "order": 1,
+              "children": [
+                {
+                  "id": "sls:strahllinien:article:sls-kategorie",
+                  "title": "SLS",
+                  "type": "article",
+                  "order": 1
+                }
+              ]
+            },
+            {
+              "id": "sls:strahllinien:category:wichtige-prozeduren",
+              "title": "Wichtige Prozeduren",
+              "type": "category",
+              "order": 2,
+              "children": [
+                {
+                  "id": "sls:strahllinien:article:1",
+                  "title": "1",
+                  "type": "article",
+                  "order": 1
+                },
+                {
+                  "id": "sls:strahllinien:article:2",
+                  "title": "2",
+                  "type": "article",
+                  "order": 2
+                },
+                {
+                  "id": "sls:strahllinien:article:3",
+                  "title": "3",
+                  "type": "article",
+                  "order": 3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "swissfel",
+      "title": "SwissFEL",
+      "type": "accelerator",
+      "order": 4,
+      "lang": "de",
+      "source": "BeschleunigerWiki",
+      "children": [
+        {
+          "id": "swissfel:tab:uebersicht",
+          "title": "Übersicht",
+          "type": "tab",
+          "order": 1,
+          "children": [
+            {
+              "id": "swissfel:category:anlagerelevante-webseiten",
+              "title": "Anlagerelevante Webseiten",
+              "type": "category",
+              "order": 1,
+              "children": [
+                {
+                  "id": "swissfel:category:allgemeines",
+                  "title": "Allgemeines",
+                  "type": "category",
+                  "order": 1,
+                  "children": [
+                    {
+                      "id": "swissfel:uebersicht:article:notfallprozedur",
+                      "title": "Notfallprozedur",
+                      "type": "article",
+                      "order": 1
+                    },
+                    {
+                      "id": "swissfel:uebersicht:article:status-display",
+                      "title": "SwissFEL Status Display",
+                      "type": "article",
+                      "order": 2
+                    },
+                    {
+                      "id": "swissfel:uebersicht:article:status-display-wica",
+                      "title": "SwissFEL Status Display (wica)",
+                      "type": "article",
+                      "order": 3
+                    },
+                    {
+                      "id": "swissfel:uebersicht:article:overview-display-wica",
+                      "title": "SwissFEL Overview Display (wica)",
+                      "type": "article",
+                      "order": 4
+                    },
+                    {
+                      "id": "swissfel:uebersicht:article:multi-plot-display-wica",
+                      "title": "SwissFEL Multi-Plot Display (wica)",
+                      "type": "article",
+                      "order": 5
+                    },
+                    {
+                      "id": "swissfel:uebersicht:article:intranet",
+                      "title": "SwissFEL im Intranet",
+                      "type": "article",
+                      "order": 6
+                    },
+                    {
+                      "id": "swissfel:uebersicht:article:technical-coordination-meeting",
+                      "title": "SwissFEL Technical Coordination Meeting (in Teams)",
+                      "type": "article",
+                      "order": 7
+                    },
+                    {
+                      "id": "swissfel:uebersicht:article:exchange-meeting-sem",
+                      "title": "SwissFEL Exchange Meeting (SEM)",
+                      "type": "article",
+                      "order": 8
+                    },
+                    {
+                      "id": "swissfel:uebersicht:article:installation-meeting-sim",
+                      "title": "SwissFEL Installation Meeting (SIM)",
+                      "type": "article",
+                      "order": 9
+                    }
+                  ]
+                },
+                {
+                  "id": "swissfel:category:logbuecher",
+                  "title": "SwissFEL Logbücher",
+                  "type": "category",
+                  "order": 2,
+                  "children": [
+                    {
+                      "id": "swissfel:uebersicht:article:commissioning",
+                      "title": "Commissioning",
+                      "type": "article",
+                      "order": 1
+                    },
+                    {
+                      "id": "swissfel:uebersicht:article:commissioning-data",
+                      "title": "Commissioning data",
+                      "type": "article",
+                      "order": 2
+                    }
+                  ]
+                },
+                {
+                  "id": "swissfel:category:service-logbuecher",
+                  "title": "SwissFEL Service Logbücher",
+                  "type": "category",
+                  "order": 3,
+                  "children": [
+                    {
+                      "id": "swissfel:uebersicht:article:diagnostics",
+                      "title": "Diagnostics",
+                      "type": "article",
+                      "order": 1
+                    },
+                    {
+                      "id": "swissfel:uebersicht:article:rf",
+                      "title": "RF",
+                      "type": "article",
+                      "order": 2
+                    },
+                    {
+                      "id": "swissfel:uebersicht:article:photonics",
+                      "title": "Photonics",
+                      "type": "article",
+                      "order": 3
+                    },
+                    {
+                      "id": "swissfel:uebersicht:article:cathodes",
+                      "title": "Cathodes",
+                      "type": "article",
+                      "order": 4
+                    }
+                  ]
+                },
+                {
+                  "id": "swissfel:category:sonstige-webseiten",
+                  "title": "Sonstige betriebsrelevante Webseiten",
+                  "type": "category",
+                  "order": 4,
+                  "children": [
+                    {
+                      "id": "swissfel:uebersicht:article:jira-issue-tracker",
+                      "title": "JIRA - Issue Tracker",
+                      "type": "article",
+                      "order": 1
+                    },
+                    {
+                      "id": "swissfel:uebersicht:article:maintenance-access-requests",
+                      "title": "Maintenance windows - Access Requests",
+                      "type": "article",
+                      "order": 2
+                    },
+                    {
+                      "id": "swissfel:uebersicht:article:pikett-elog",
+                      "title": "Pikett-Service Pikett-Elog",
+                      "type": "article",
+                      "order": 3
+                    },
+                    {
+                      "id": "swissfel:uebersicht:article:technical-design-report",
+                      "title": "Technical Design Report",
+                      "type": "article",
+                      "order": 4
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "swissfel:section:einfuhrung",
+              "title": "EINFÜHRUNG",
+              "type": "section",
+              "order": 2,
+              "children": [
+                {
+                  "id": "swissfel:uebersicht:article:aufgaben-der-schichtcrew",
+                  "title": "Aufgaben der Schichtcrew",
+                  "type": "article",
+                  "order": 1
+                },
+                {
+                  "id": "swissfel:uebersicht:article:einfuehrung-anfänger",
+                  "title": "Einführung (f. Anfänger)",
+                  "type": "article",
+                  "order": 2
+                },
+                {
+                  "id": "swissfel:uebersicht:article:betriebsablaeufe",
+                  "title": "SwissFEL Betriebsabläufe",
+                  "type": "article",
+                  "order": 3
+                },
+                {
+                  "id": "swissfel:uebersicht:article:switchyard",
+                  "title": "Switchyard",
+                  "type": "article",
+                  "order": 4
+                },
+                {
+                  "id": "swissfel:uebersicht:article:training",
+                  "title": "Training",
+                  "type": "article",
+                  "order": 5
+                },
+                {
+                  "id": "swissfel:uebersicht:article:lernziele",
+                  "title": "Lernziele SwissFEL",
+                  "type": "article",
+                  "order": 6
+                },
+                {
+                  "id": "swissfel:uebersicht:article:operator-training",
+                  "title": "Operator Training",
+                  "type": "article",
+                  "order": 7
+                },
+                {
+                  "id": "swissfel:uebersicht:article:standard-setup-konsolen",
+                  "title": "Standard Setup der Konsolen",
+                  "type": "article",
+                  "order": 8
+                },
+                {
+                  "id": "swissfel:uebersicht:article:rc-training-english",
+                  "title": "RC Training (english)",
+                  "type": "article",
+                  "order": 9
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "swissfel:tab:prozeduren-und-checklisten",
+          "title": "Prozeduren und Checklisten",
+          "type": "tab",
+          "order": 2,
+          "children": [
+            {
+              "id": "swissfel:category:laser-und-gun",
+              "title": "LASER u. Gun",
+              "type": "category",
+              "order": 1,
+              "children": [
+                {
+                  "id": "swissfel:prozeduren:article:laser-gun-setup-routine",
+                  "title": "Laser-Gun-Setup Routine",
+                  "type": "article",
+                  "order": 1
+                }
+              ]
+            },
+            {
+              "id": "swissfel:category:hochfrequenz",
+              "title": "Hochfrequenz",
+              "type": "category",
+              "order": 2,
+              "children": [
+                {
+                  "id": "swissfel:prozeduren:article:energiewechsel",
+                  "title": "Energiewechsel",
+                  "type": "article",
+                  "order": 1
+                },
+                {
+                  "id": "swissfel:prozeduren:article:rf-phasing",
+                  "title": "RF Phasing",
+                  "type": "article",
+                  "order": 2
+                },
+                {
+                  "id": "swissfel:prozeduren:article:switchyard-bedienung",
+                  "title": "Switchyard Bedienung",
+                  "type": "article",
+                  "order": 3
+                },
+                {
+                  "id": "swissfel:prozeduren:article:sf-rf-checkliste-mit-strahl",
+                  "title": "SF RF Checkliste (mit Strahl)",
+                  "type": "article",
+                  "order": 4
+                },
+                {
+                  "id": "swissfel:prozeduren:article:sf-rf-checkliste-pre-beam",
+                  "title": "SF RF Checkliste (pre-beam)",
+                  "type": "article",
+                  "order": 5
+                },
+                {
+                  "id": "swissfel:prozeduren:article:sf-rf-checkliste-tunnel-offen",
+                  "title": "SF RF Checkliste (Tunnel offen)",
+                  "type": "article",
+                  "order": 6
+                },
+                {
+                  "id": "swissfel:prozeduren:article:sf-rf-checkliste-wartungstag",
+                  "title": "SF RF Checkliste Wartungstag (Tunnel offen)",
+                  "type": "article",
+                  "order": 7
+                }
+              ]
+            },
+            {
+              "id": "swissfel:category:diagnostik-feedbacks-strahldynamik",
+              "title": "Diagnostik, Feedbacks, Strahldynamik",
+              "type": "category",
+              "order": 3,
+              "children": [
+                {
+                  "id": "swissfel:prozeduren:article:bunchlaengenmessung",
+                  "title": "SwissFEL_Bunchlängenmessung",
+                  "type": "article",
+                  "order": 1
+                },
+                {
+                  "id": "swissfel:prozeduren:article:troubleshooting-bc1",
+                  "title": "Troubleshooting Bunch Compression Monitor BC1",
+                  "type": "article",
+                  "order": 2
+                },
+                {
+                  "id": "swissfel:prozeduren:article:troubleshooting-ec",
+                  "title": "Troubleshooting Bunch Compression Monitor EC",
+                  "type": "article",
+                  "order": 3
+                },
+                {
+                  "id": "swissfel:prozeduren:article:optik-feedback-bedienung",
+                  "title": "Optik-Feedback Bedienung",
+                  "type": "article",
+                  "order": 4
+                },
+                {
+                  "id": "swissfel:prozeduren:article:emittanzmessung-matching",
+                  "title": "Emittanzmessung und Matching",
+                  "type": "article",
+                  "order": 5
+                }
+              ]
+            },
+            {
+              "id": "swissfel:category:aramis-undulatoren",
+              "title": "Aramis Undulatoren",
+              "type": "category",
+              "order": 4,
+              "children": [
+                {
+                  "id": "swissfel:prozeduren:article:undulator-pointing",
+                  "title": "Undulator Pointing",
+                  "type": "article",
+                  "order": 1
+                },
+                {
+                  "id": "swissfel:prozeduren:article:k-phase-and-delay-scan-aramis",
+                  "title": "K_Phase_and_Delay_Scan",
+                  "type": "article",
+                  "order": 2
+                }
+              ]
+            },
+            {
+              "id": "swissfel:category:athos-undulatoren",
+              "title": "Athos Undulatoren",
+              "type": "category",
+              "order": 5,
+              "children": [
+                {
+                  "id": "swissfel:prozeduren:article:k-phase-and-delay-scan-athos",
+                  "title": "K_Phase_and_Delay_Scan",
+                  "type": "article",
+                  "order": 1
+                }
+              ]
+            },
+            {
+              "id": "swissfel:category:administrative-verfahren",
+              "title": "Administrative Verfahren",
+              "type": "category",
+              "order": 6,
+              "children": [
+                {
+                  "id": "swissfel:prozeduren:article:dose-rate-monitors",
+                  "title": "Dose Rate Monitors",
+                  "type": "article",
+                  "order": 1
+                },
+                {
+                  "id": "swissfel:prozeduren:article:dose-rate-protection-system",
+                  "title": "Dose Rate Protection System",
+                  "type": "article",
+                  "order": 2
+                },
+                {
+                  "id": "swissfel:prozeduren:article:integrale-ladung",
+                  "title": "Integrale Ladung",
+                  "type": "article",
+                  "order": 3
+                },
+                {
+                  "id": "swissfel:prozeduren:article:grenzwerte-strahlverlustmonitore",
+                  "title": "Grenzwerte der Strahlverlustmonitore",
+                  "type": "article",
+                  "order": 4
+                },
+                {
+                  "id": "swissfel:prozeduren:article:ueberbrueckung-mps-kanäle",
+                  "title": "Regeln für die Überbrückung von MPS- und Soft-MPS-Kanälen",
+                  "type": "article",
+                  "order": 5
+                },
+                {
+                  "id": "swissfel:prozeduren:article:bewilligungen-dokumentation",
+                  "title": "SwissFEL: Bewilligungen und Dokumentation",
+                  "type": "article",
+                  "order": 6
+                }
+              ]
+            },
+            {
+              "id": "swissfel:category:how-to",
+              "title": "How-To",
+              "type": "category",
+              "order": 7,
+              "children": [
+                {
+                  "id": "swissfel:prozeduren:article:afs-tipps-tricks",
+                  "title": "AFS Tipps and Tricks",
+                  "type": "article",
+                  "order": 1
+                },
+                {
+                  "id": "swissfel:prozeduren:article:panel-startup-script",
+                  "title": "How to make your own panel startup script?",
+                  "type": "article",
+                  "order": 2
+                },
+                {
+                  "id": "swissfel:prozeduren:article:document-downtimes",
+                  "title": "How to document downtimes?",
+                  "type": "article",
+                  "order": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "swissfel:tab:injector",
+          "title": "Injector",
+          "type": "tab",
+          "order": 3,
+          "children": [
+            {
+              "id": "swissfel:injector:category:anlagerelevante-artikel",
+              "title": "Anlagerelevante Artikel",
+              "type": "category",
+              "order": 1,
+              "children": [
+                {
+                  "id": "swissfel:injector:article:gun",
+                  "title": "Gun",
+                  "type": "article",
+                  "order": 1
+                },
+                {
+                  "id": "swissfel:injector:article:gun-spektrometer",
+                  "title": "Gun Spektrometer",
+                  "type": "article",
+                  "order": 2
+                },
+                {
+                  "id": "swissfel:injector:article:booster-1",
+                  "title": "Booster 1",
+                  "type": "article",
+                  "order": 3
+                },
+                {
+                  "id": "swissfel:injector:article:laser-heater",
+                  "title": "Laser Heater",
+                  "type": "article",
+                  "order": 4
+                },
+                {
+                  "id": "swissfel:injector:article:booster-2",
+                  "title": "Booster 2",
+                  "type": "article",
+                  "order": 5
+                },
+                {
+                  "id": "swissfel:injector:article:bunch-compressor-1",
+                  "title": "Bunch Compressor 1",
+                  "type": "article",
+                  "order": 6
+                },
+                {
+                  "id": "swissfel:injector:article:ctf3-gun",
+                  "title": "CTF3-Gun",
+                  "type": "article",
+                  "order": 7
+                }
+              ]
+            },
+            {
+              "id": "swissfel:injector:category:wichtige-prozeduren",
+              "title": "Wichtige Prozeduren",
+              "type": "category",
+              "order": 2,
+              "children": [
+                {
+                  "id": "swissfel:injector:article:rf-phasing",
+                  "title": "RF Phasing",
+                  "type": "article",
+                  "order": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "swissfel:tab:undulatoren",
+          "title": "Undulatoren",
+          "type": "tab",
+          "order": 4,
+          "children": [
+            {
+              "id": "swissfel:undulatoren:category:anlagerelevante-artikel",
+              "title": "Anlagerelevante Artikel",
+              "type": "category",
+              "order": 1,
+              "children": [
+                {
+                  "id": "swissfel:undulatoren:article:aramis-undulator",
+                  "title": "Aramis Undulator",
+                  "type": "article",
+                  "order": 1
+                },
+                {
+                  "id": "swissfel:undulatoren:article:athos-undulator",
+                  "title": "Athos Undulator",
+                  "type": "article",
+                  "order": 2
+                },
+                {
+                  "id": "swissfel:undulatoren:article:k-wert",
+                  "title": "K-Wert",
+                  "type": "article",
+                  "order": 3
+                },
+                {
+                  "id": "swissfel:undulatoren:article:sase",
+                  "title": "Self Amplified Spontanous Emission (SASE)",
+                  "type": "article",
+                  "order": 4
+                }
+              ]
+            },
+            {
+              "id": "swissfel:undulatoren:category:wichtige-prozeduren",
+              "title": "Wichtige Prozeduren",
+              "type": "category",
+              "order": 2,
+              "children": [
+                {
+                  "id": "swissfel:undulatoren:article:undulator-pointing-anpassung",
+                  "title": "Undulator Pointing Anpassung",
+                  "type": "article",
+                  "order": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "total_nodes": 400
+}

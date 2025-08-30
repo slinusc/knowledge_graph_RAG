@@ -1,0 +1,77 @@
+{
+  "title": "Portal:SwissFEL",
+  "url": "https://acceleratorwiki.psi.ch/wiki/Portal:SwissFEL",
+  "children": [
+    {
+      "title":"Portal:SwissFEL/Übersicht", 
+      "url": "https://acceleratorwiki.psi.ch/wiki/Portal:SwissFEL",
+      "children": [
+        {"title": "Notfall_Prozedur_SwissFEL", "url": "https://acceleratorwiki.psi.ch/wiki/Notfall_Prozedur_SwissFEL"},
+        {"title": "SF_Schichtaufgaben", "url": "https://acceleratorwiki.psi.ch/wiki/SF_Schichtaufgaben"},
+        {"title": "SwissFEL_Einführung_(Anfänger)", "url": "https://acceleratorwiki.psi.ch/wiki/SwissFEL_Einführung_(Anfänger)"},
+        {"title": "SF_Betriebsabläufe", "url": "https://acceleratorwiki.psi.ch/wiki/SF_Betriebsabläufe"},
+        {"title": "Switchyard", "url": "https://acceleratorwiki.psi.ch/wiki/Switchyard"},
+        {"title": "Lernziele_SwissFEL", "url": "https://acceleratorwiki.psi.ch/wiki/Lernziele_SwissFEL"},
+        {"title": "SF_Operator_Training", "url": "https://acceleratorwiki.psi.ch/wiki/SF_Operator_Training"},
+        {"title": "SF_Standard_Setup_Konsolen", "url": "https://acceleratorwiki.psi.ch/wiki/SF_Standard_Setup_Konsolen"},
+        {"title": "RC_Training_(english)", "url": "https://acceleratorwiki.psi.ch/wiki/RC_Training_(english)"}
+      ]
+    },
+    {
+      "title": "Portal:SwissFEL/SwissFEL_Prozeduren_und_Checklisten",
+      "url": "https://acceleratorwiki.psi.ch/wiki/Portal:SwissFEL/SwissFEL_Prozeduren_und_Checklisten",
+      "children": [
+        {"title": "Laser-Gun-Setup_Routine", "url": "https://acceleratorwiki.psi.ch/wiki/Laser-Gun-Setup_Routine"},
+        {"title": "SwissFEL_Energiewechsel", "url": "https://acceleratorwiki.psi.ch/wiki/SwissFEL_Energiewechsel"},
+        {"title": "SF_RF_Phasing", "url": "https://acceleratorwiki.psi.ch/wiki/SF_RF_Phasing"},
+        {"title": "Switchyard#Bedienung", "url": "https://acceleratorwiki.psi.ch/wiki/Switchyard#Bedienung"},
+        {"title": "SF_RF_Checkliste_(mit_Strahl)", "url": "https://acceleratorwiki.psi.ch/wiki/SF_RF_Checkliste_(mit_Strahl)"},
+        {"title": "SF_RF_Checkliste_(pre-beam)", "url": "https://acceleratorwiki.psi.ch/wiki/SF_RF_Checkliste_(pre-beam)"},
+        {"title": "SF_RF_Checkliste_(Tunnel_offen)", "url": "https://acceleratorwiki.psi.ch/wiki/SF_RF_Checkliste_(Tunnel_offen)"},
+        {"title": "SF_RF_Checkliste_Wartungstag_(Tunnel_offen)", "url": "https://acceleratorwiki.psi.ch/wiki/SF_RF_Checkliste_Wartungstag_(Tunnel_offen)"},
+        {"title": "SwissFEL_Bunchlängenmessung", "url": "https://acceleratorwiki.psi.ch/wiki/SwissFEL_Bunchlängenmessung"},
+        {"title": "BCM/CDR#Troubleshooting", "url": "https://acceleratorwiki.psi.ch/wiki/BCM/CDR#Troubleshooting"},
+        {"title": "Optik-Feedback", "url": "https://acceleratorwiki.psi.ch/wiki/Optik-Feedback"},
+        {"title": "Emittanzmessung_und_Matching", "url": "https://acceleratorwiki.psi.ch/wiki/Emittanzmessung_und_Matching"},
+        {"title": "Undulator_Pointing_Anpassung", "url": "https://acceleratorwiki.psi.ch/wiki/Undulator_Pointing_Anpassung"},
+        {"title": "K,_Phase_and_Delay_Scan", "url": "https://acceleratorwiki.psi.ch/wiki/K,_Phase_and_Delay_Scan"},
+        {"title": "Dose_Rate_Monitors", "url": "https://acceleratorwiki.psi.ch/wiki/Dose_Rate_Monitors"},
+        {"title": "Dose_Rate_Protection_System", "url": "https://acceleratorwiki.psi.ch/wiki/Dose_Rate_Protection_System"},
+        {"title": "Integrale_Ladung", "url": "https://acceleratorwiki.psi.ch/wiki/Integrale_Ladung"},
+        {"title": "Grenzwerte_der_Strahlverlustmonitore", "url": "https://acceleratorwiki.psi.ch/wiki/Grenzwerte_der_Strahlverlustmonitore"},
+        {"title": "Regeln_für_die_Überbrückung_von_MPS-_und_Soft-MPS-Kanälen", "url": "https://acceleratorwiki.psi.ch/wiki/Regeln_für_die_Überbrückung_von_MPS-_und_Soft-MPS-Kanälen"},
+        {"title": "SwissFEL:_Bewilligungen_und_Dokumentation", "url": "https://acceleratorwiki.psi.ch/wiki/SwissFEL:_Bewilligungen_und_Dokumentation"},
+        {"title": "AFS_Tipps_and_Tricks", "url": "https://acceleratorwiki.psi.ch/wiki/AFS_Tipps_and_Tricks"},
+        {"title": "How_to_make_your_own_panel_start-up_script?", "url": "https://acceleratorwiki.psi.ch/wiki/How_to_make_your_own_panel_start-up_script%3F"},
+        {"title": "How_to_document_downtimes?", "url": "https://acceleratorwiki.psi.ch/wiki/How_to_document_downtimes%3F"}
+      ]
+    },
+    {
+      "title": "Portal:SwissFEL/SwissFEL_Injector",
+      "url": "https://acceleratorwiki.psi.ch/wiki/Portal:SwissFEL/SwissFEL_Injector",
+      "children": [
+        {"title": "SwissFEL_Einführung_(Anfänger)#Die_Elektronenquelle_.2F_Gun_.28SINEG01.29", "url": "https://acceleratorwiki.psi.ch/wiki/SwissFEL_Einführung_(Anfänger)#Die_Elektronenquelle_.2F_Gun_.28SINEG01.29"},
+        {"title": "SwissFEL_Einführung_(Anfänger)#Gun_Spektrometer_(SINBD01)", "url": "https://acceleratorwiki.psi.ch/wiki/SwissFEL_Einführung_(Anfänger)#Gun_Spektrometer_(SINBD01)"},
+        {"title": "SwissFEL_Einführung_(Anfänger)#Booster_1_(SINSB01/02)", "url": "https://acceleratorwiki.psi.ch/wiki/SwissFEL_Einführung_(Anfänger)#Booster_1_(SINSB01/02)"},
+        {"title": "SwissFEL_Einführung_(Anfänger)#Laser_Heater_(LH)", "url": "https://acceleratorwiki.psi.ch/wiki/SwissFEL_Einführung_(Anfänger)#Laser_Heater_(LH)"},
+        {"title": "SwissFEL_Einführung_(Anfänger)#Booster_2_(SINSB03/04_&_SINXB01)", "url": "https://acceleratorwiki.psi.ch/wiki/SwissFEL_Einführung_(Anfänger)#Booster_2_(SINSB03/04_&_SINXB01)"},
+        {"title": "BCM/CDR", "url": "https://acceleratorwiki.psi.ch/wiki/BCM/CDR"},
+        {"title": "CTF3-Gun", "url": "https://acceleratorwiki.psi.ch/wiki/CTF3-Gun"},
+        {"title": "SF_RF_Phasing", "url": "https://acceleratorwiki.psi.ch/wiki/SF_RF_Phasing"}
+      ]
+    },
+    {
+      "title": "Portal:SwissFEL/SwissFEL_Undulators",
+      "url": "https://acceleratorwiki.psi.ch/wiki/Portal:SwissFEL/SwissFEL_Undulators",
+      "children": [
+        {"title": "Undulator", "url": "https://acceleratorwiki.psi.ch/wiki/Undulator"},
+        {"title": "Beschleunigerphysik_SLS#Synchrotronstrahlung", "url": "https://acceleratorwiki.psi.ch/wiki/Beschleunigerphysik_SLS#Synchrotronstrahlung"},
+        {"title": "Self_Amplified_Spontanous_Emission_(SASE)", "url": "https://acceleratorwiki.psi.ch/wiki/Self_Amplified_Spontanous_Emission_(SASE)"},
+        {"title": "SwissFEL_Einführung_(Anfänger)#Aramis_Undulatoren", "url": "https://acceleratorwiki.psi.ch/wiki/SwissFEL_Einführung_(Anfänger)#Aramis_Undulatoren"},
+        {"title": "SwissFEL_Einführung_(Anfänger)#Athos_Undulatoren", "url": "https://acceleratorwiki.psi.ch/wiki/SwissFEL_Einführung_(Anfänger)#Athos_Undulatoren"},
+        {"title": "K-Wert", "url": "https://acceleratorwiki.psi.ch/wiki/K-Wert"},
+        {"title": "Undulator_Pointing_Anpassung", "url": "https://acceleratorwiki.psi.ch/wiki/Undulator_Pointing_Anpassung"}
+      ]
+    }
+  ]
+}

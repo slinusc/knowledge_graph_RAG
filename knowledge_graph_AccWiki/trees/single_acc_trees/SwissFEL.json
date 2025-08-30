@@ -1,0 +1,244 @@
+{
+  "id": "swissfel",
+  "title": "SwissFEL",
+  "type": "accelerator",
+  "order": 4,
+  "lang": "de",
+  "source": "BeschleunigerWiki",
+  "children": [
+    {
+      "id": "swissfel:tab:uebersicht",
+      "title": "Übersicht",
+      "type": "tab",
+      "order": 1,
+      "children": [
+        {
+          "id": "swissfel:category:anlagerelevante-webseiten",
+          "title": "Anlagerelevante Webseiten",
+          "type": "category",
+          "order": 1,
+          "children": [
+            {
+              "id": "swissfel:category:allgemeines",
+              "title": "Allgemeines",
+              "type": "category",
+              "order": 1,
+              "children": [
+                { "id": "swissfel:uebersicht:article:notfallprozedur", "title": "Notfallprozedur", "type": "article", "order": 1 },
+                { "id": "swissfel:uebersicht:article:status-display", "title": "SwissFEL Status Display", "type": "article", "order": 2 },
+                { "id": "swissfel:uebersicht:article:status-display-wica", "title": "SwissFEL Status Display (wica)", "type": "article", "order": 3 },
+                { "id": "swissfel:uebersicht:article:overview-display-wica", "title": "SwissFEL Overview Display (wica)", "type": "article", "order": 4 },
+                { "id": "swissfel:uebersicht:article:multi-plot-display-wica", "title": "SwissFEL Multi-Plot Display (wica)", "type": "article", "order": 5 },
+                { "id": "swissfel:uebersicht:article:intranet", "title": "SwissFEL im Intranet", "type": "article", "order": 6 },
+                { "id": "swissfel:uebersicht:article:technical-coordination-meeting", "title": "SwissFEL Technical Coordination Meeting (in Teams)", "type": "article", "order": 7 },
+                { "id": "swissfel:uebersicht:article:exchange-meeting-sem", "title": "SwissFEL Exchange Meeting (SEM)", "type": "article", "order": 8 },
+                { "id": "swissfel:uebersicht:article:installation-meeting-sim", "title": "SwissFEL Installation Meeting (SIM)", "type": "article", "order": 9 }
+              ]
+            },
+            {
+              "id": "swissfel:category:logbuecher",
+              "title": "SwissFEL Logbücher",
+              "type": "category",
+              "order": 2,
+              "children": [
+                { "id": "swissfel:uebersicht:article:commissioning", "title": "Commissioning", "type": "article", "order": 1 },
+                { "id": "swissfel:uebersicht:article:commissioning-data", "title": "Commissioning data", "type": "article", "order": 2 }
+              ]
+            },
+            {
+              "id": "swissfel:category:service-logbuecher",
+              "title": "SwissFEL Service Logbücher",
+              "type": "category",
+              "order": 3,
+              "children": [
+                { "id": "swissfel:uebersicht:article:diagnostics", "title": "Diagnostics", "type": "article", "order": 1 },
+                { "id": "swissfel:uebersicht:article:rf", "title": "RF", "type": "article", "order": 2 },
+                { "id": "swissfel:uebersicht:article:photonics", "title": "Photonics", "type": "article", "order": 3 },
+                { "id": "swissfel:uebersicht:article:cathodes", "title": "Cathodes", "type": "article", "order": 4 }
+              ]
+            },
+            {
+              "id": "swissfel:category:sonstige-webseiten",
+              "title": "Sonstige betriebsrelevante Webseiten",
+              "type": "category",
+              "order": 4,
+              "children": [
+                { "id": "swissfel:uebersicht:article:jira-issue-tracker", "title": "JIRA - Issue Tracker", "type": "article", "order": 1 },
+                { "id": "swissfel:uebersicht:article:maintenance-access-requests", "title": "Maintenance windows - Access Requests", "type": "article", "order": 2 },
+                { "id": "swissfel:uebersicht:article:pikett-elog", "title": "Pikett-Service Pikett-Elog", "type": "article", "order": 3 },
+                { "id": "swissfel:uebersicht:article:technical-design-report", "title": "Technical Design Report", "type": "article", "order": 4 }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "swissfel:section:einfuhrung",
+          "title": "EINFÜHRUNG",
+          "type": "section",
+          "order": 2,
+          "children": [
+            { "id": "swissfel:uebersicht:article:aufgaben-der-schichtcrew", "title": "Aufgaben der Schichtcrew", "type": "article", "order": 1 },
+            { "id": "swissfel:uebersicht:article:einfuehrung-anfänger", "title": "Einführung (f. Anfänger)", "type": "article", "order": 2 },
+            { "id": "swissfel:uebersicht:article:betriebsablaeufe", "title": "SwissFEL Betriebsabläufe", "type": "article", "order": 3 },
+            { "id": "swissfel:uebersicht:article:switchyard", "title": "Switchyard", "type": "article", "order": 4 },
+            { "id": "swissfel:uebersicht:article:training", "title": "Training", "type": "article", "order": 5 },
+            { "id": "swissfel:uebersicht:article:lernziele", "title": "Lernziele SwissFEL", "type": "article", "order": 6 },
+            { "id": "swissfel:uebersicht:article:operator-training", "title": "Operator Training", "type": "article", "order": 7 },
+            { "id": "swissfel:uebersicht:article:standard-setup-konsolen", "title": "Standard Setup der Konsolen", "type": "article", "order": 8 },
+            { "id": "swissfel:uebersicht:article:rc-training-english", "title": "RC Training (english)", "type": "article", "order": 9 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "swissfel:tab:prozeduren-und-checklisten",
+      "title": "Prozeduren und Checklisten",
+      "type": "tab",
+      "order": 2,
+      "children": [
+        {
+          "id": "swissfel:category:laser-und-gun",
+          "title": "LASER u. Gun",
+          "type": "category",
+          "order": 1,
+          "children": [
+            { "id": "swissfel:prozeduren:article:laser-gun-setup-routine", "title": "Laser-Gun-Setup Routine", "type": "article", "order": 1 }
+          ]
+        },
+        {
+          "id": "swissfel:category:hochfrequenz",
+          "title": "Hochfrequenz",
+          "type": "category",
+          "order": 2,
+          "children": [
+            { "id": "swissfel:prozeduren:article:energiewechsel", "title": "Energiewechsel", "type": "article", "order": 1 },
+            { "id": "swissfel:prozeduren:article:rf-phasing", "title": "RF Phasing", "type": "article", "order": 2 },
+            { "id": "swissfel:prozeduren:article:switchyard-bedienung", "title": "Switchyard Bedienung", "type": "article", "order": 3 },
+            { "id": "swissfel:prozeduren:article:sf-rf-checkliste-mit-strahl", "title": "SF RF Checkliste (mit Strahl)", "type": "article", "order": 4 },
+            { "id": "swissfel:prozeduren:article:sf-rf-checkliste-pre-beam", "title": "SF RF Checkliste (pre-beam)", "type": "article", "order": 5 },
+            { "id": "swissfel:prozeduren:article:sf-rf-checkliste-tunnel-offen", "title": "SF RF Checkliste (Tunnel offen)", "type": "article", "order": 6 },
+            { "id": "swissfel:prozeduren:article:sf-rf-checkliste-wartungstag", "title": "SF RF Checkliste Wartungstag (Tunnel offen)", "type": "article", "order": 7 }
+          ]
+        },
+        {
+          "id": "swissfel:category:diagnostik-feedbacks-strahldynamik",
+          "title": "Diagnostik, Feedbacks, Strahldynamik",
+          "type": "category",
+          "order": 3,
+          "children": [
+            { "id": "swissfel:prozeduren:article:bunchlaengenmessung", "title": "SwissFEL_Bunchlängenmessung", "type": "article", "order": 1 },
+            { "id": "swissfel:prozeduren:article:troubleshooting-bc1", "title": "Troubleshooting Bunch Compression Monitor BC1", "type": "article", "order": 2 },
+            { "id": "swissfel:prozeduren:article:troubleshooting-ec", "title": "Troubleshooting Bunch Compression Monitor EC", "type": "article", "order": 3 },
+            { "id": "swissfel:prozeduren:article:optik-feedback-bedienung", "title": "Optik-Feedback Bedienung", "type": "article", "order": 4 },
+            { "id": "swissfel:prozeduren:article:emittanzmessung-matching", "title": "Emittanzmessung und Matching", "type": "article", "order": 5 }
+          ]
+        },
+        {
+          "id": "swissfel:category:aramis-undulatoren",
+          "title": "Aramis Undulatoren",
+          "type": "category",
+          "order": 4,
+          "children": [
+            { "id": "swissfel:prozeduren:article:undulator-pointing", "title": "Undulator Pointing", "type": "article", "order": 1 },
+            { "id": "swissfel:prozeduren:article:k-phase-and-delay-scan-aramis", "title": "K_Phase_and_Delay_Scan", "type": "article", "order": 2 }
+          ]
+        },
+        {
+          "id": "swissfel:category:athos-undulatoren",
+          "title": "Athos Undulatoren",
+          "type": "category",
+          "order": 5,
+          "children": [
+            { "id": "swissfel:prozeduren:article:k-phase-and-delay-scan-athos", "title": "K_Phase_and_Delay_Scan", "type": "article", "order": 1 }
+          ]
+        },
+        {
+          "id": "swissfel:category:administrative-verfahren",
+          "title": "Administrative Verfahren",
+          "type": "category",
+          "order": 6,
+          "children": [
+            { "id": "swissfel:prozeduren:article:dose-rate-monitors", "title": "Dose Rate Monitors", "type": "article", "order": 1 },
+            { "id": "swissfel:prozeduren:article:dose-rate-protection-system", "title": "Dose Rate Protection System", "type": "article", "order": 2 },
+            { "id": "swissfel:prozeduren:article:integrale-ladung", "title": "Integrale Ladung", "type": "article", "order": 3 },
+            { "id": "swissfel:prozeduren:article:grenzwerte-strahlverlustmonitore", "title": "Grenzwerte der Strahlverlustmonitore", "type": "article", "order": 4 },
+            { "id": "swissfel:prozeduren:article:ueberbrueckung-mps-kanäle", "title": "Regeln für die Überbrückung von MPS- und Soft-MPS-Kanälen", "type": "article", "order": 5 },
+            { "id": "swissfel:prozeduren:article:bewilligungen-dokumentation", "title": "SwissFEL: Bewilligungen und Dokumentation", "type": "article", "order": 6 }
+          ]
+        },
+        {
+          "id": "swissfel:category:how-to",
+          "title": "How-To",
+          "type": "category",
+          "order": 7,
+          "children": [
+            { "id": "swissfel:prozeduren:article:afs-tipps-tricks", "title": "AFS Tipps and Tricks", "type": "article", "order": 1 },
+            { "id": "swissfel:prozeduren:article:panel-startup-script", "title": "How to make your own panel startup script?", "type": "article", "order": 2 },
+            { "id": "swissfel:prozeduren:article:document-downtimes", "title": "How to document downtimes?", "type": "article", "order": 3 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "swissfel:tab:injector",
+      "title": "Injector",
+      "type": "tab",
+      "order": 3,
+      "children": [
+        {
+          "id": "swissfel:injector:category:anlagerelevante-artikel",
+          "title": "Anlagerelevante Artikel",
+          "type": "category",
+          "order": 1,
+          "children": [
+            { "id": "swissfel:injector:article:gun", "title": "Gun", "type": "article", "order": 1 },
+            { "id": "swissfel:injector:article:gun-spektrometer", "title": "Gun Spektrometer", "type": "article", "order": 2 },
+            { "id": "swissfel:injector:article:booster-1", "title": "Booster 1", "type": "article", "order": 3 },
+            { "id": "swissfel:injector:article:laser-heater", "title": "Laser Heater", "type": "article", "order": 4 },
+            { "id": "swissfel:injector:article:booster-2", "title": "Booster 2", "type": "article", "order": 5 },
+            { "id": "swissfel:injector:article:bunch-compressor-1", "title": "Bunch Compressor 1", "type": "article", "order": 6 },
+            { "id": "swissfel:injector:article:ctf3-gun", "title": "CTF3-Gun", "type": "article", "order": 7 }
+          ]
+        },
+        {
+          "id": "swissfel:injector:category:wichtige-prozeduren",
+          "title": "Wichtige Prozeduren",
+          "type": "category",
+          "order": 2,
+          "children": [
+            { "id": "swissfel:injector:article:rf-phasing", "title": "RF Phasing", "type": "article", "order": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "swissfel:tab:undulatoren",
+      "title": "Undulatoren",
+      "type": "tab",
+      "order": 4,
+      "children": [
+        {
+          "id": "swissfel:undulatoren:category:anlagerelevante-artikel",
+          "title": "Anlagerelevante Artikel",
+          "type": "category",
+          "order": 1,
+          "children": [
+            { "id": "swissfel:undulatoren:article:aramis-undulator", "title": "Aramis Undulator", "type": "article", "order": 1 },
+            { "id": "swissfel:undulatoren:article:athos-undulator", "title": "Athos Undulator", "type": "article", "order": 2 },
+            { "id": "swissfel:undulatoren:article:k-wert", "title": "K-Wert", "type": "article", "order": 3 },
+            { "id": "swissfel:undulatoren:article:sase", "title": "Self Amplified Spontanous Emission (SASE)", "type": "article", "order": 4 }
+          ]
+        },
+        {
+          "id": "swissfel:undulatoren:category:wichtige-prozeduren",
+          "title": "Wichtige Prozeduren",
+          "type": "category",
+          "order": 2,
+          "children": [
+            { "id": "swissfel:undulatoren:article:undulator-pointing-anpassung", "title": "Undulator Pointing Anpassung", "type": "article", "order": 1 }
+          ]
+        }
+      ]
+    }
+  ]
+}
